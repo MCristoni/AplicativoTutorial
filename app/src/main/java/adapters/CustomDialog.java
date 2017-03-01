@@ -12,39 +12,41 @@ import android.widget.TextView;
 
 import com.matheuscristoni.tutoriais.R;
 
+import constantes.Item;
+
 
 public class CustomDialog
 {
     Dialog dialog = null;
 
-    public void ShowDialog(final Activity activity, String titulo, String mensagem, String txtBotao)
+    public void ShowDialog(final Activity activity, Item item)
     {
         dialog = new Dialog(activity, R.style.dialog_theme);
         dialog.setCancelable(false);
         dialog.setContentView(R.layout.custom_dialog);
 
         TextView txtTitulo = (TextView) dialog.findViewById(R.id.txtTituloDialog);
-        if (titulo.isEmpty())
+        if (item.tituloInfo.isEmpty())
         {
             txtTitulo.setVisibility(View.GONE);
         }
         else
         {
-            txtTitulo.setText(titulo);
+            txtTitulo.setText(item.tituloInfo);
         }
 
         TextView txtMensagem = (TextView) dialog.findViewById(R.id.txtMensagemDialog);
-        if (mensagem.isEmpty())
+        if (item.mensagemInfo.isEmpty())
         {
             txtMensagem.setVisibility(View.GONE);
         }
         else
         {
-            txtMensagem.setText(mensagem);
+            txtMensagem.setText(item.mensagemInfo);
         }
 
         Button button = (Button) dialog.findViewById(R.id.btnOkDialog);
-        button.setText(txtBotao);
+        button.setText(activity.getString(R.string.entendi));
         button.setOnClickListener(new View.OnClickListener()
         {
             @Override

@@ -15,14 +15,15 @@ import com.matheuscristoni.tutoriais.R;
 import java.util.List;
 
 import constantes.Constantes;
+import constantes.Item;
 
 public class adapterLista extends BaseAdapter
 {
-    private List<String> itens;
+    private List<Item> itens;
     private Activity context;
     private int plataforma;
 
-    public adapterLista(MainActivity mainActivity, List<String> listaItens, int plat)
+    public adapterLista(MainActivity mainActivity, List<Item> listaItens, int plat)
     {
         this.itens = listaItens;
         this.context = mainActivity;
@@ -62,7 +63,7 @@ public class adapterLista extends BaseAdapter
 
         if (plataforma == Constantes.ANDROID)
         {
-            verificaPosicoesAndroid(position);
+            verificaPosicoesAndroid(position, titulo, btnInfo, btnPrevia, btnPrevia);
         }
         else if (plataforma == Constantes.IOS)
         {
@@ -80,9 +81,9 @@ public class adapterLista extends BaseAdapter
         return view;
     }
 
-    private void verificaPosicoesAndroid(int pos)
+    private void verificaPosicoesAndroid(int pos, TextView titulo, ImageView btnInfo, Button previa, Button btnPrevia)
     {
-        Objeto obj = new Objeto();
+        Item obj = new Item();
         if (pos == Constantes.EFEITO_PRESSIONADO)
         {
             obj.titulo = context.getString(R.string.tituloEfeitoPressionado);
