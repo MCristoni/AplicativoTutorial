@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:layout_gravity="center">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background_dialog"
+        android:gravity="center"
+        android:id="@+id/linearLayout3"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin">
+
+        <TextView
+            android:id="@+id/txtTituloDialog"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@android:color/black"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:paddingTop="25dp"
+            android:paddingBottom="12.5dp"/>
+
+        <TextView
+            android:id="@+id/txtMensagemDialog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:paddingTop="5dp"
+            android:textSize="15dp"
+            android:textAlignment="textStart"
+            android:layout_gravity="center_vertical|left"
+            android:gravity="center"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:paddingBottom="25dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"
+            android:id="@+id/view1" />
+
+            <Button
+                android:id="@+id/btnOkDialog"
+                android:textSize="15dp"
+                android:textColor="@android:color/holo_blue_dark"
+                android:gravity="center"
+                android:paddingTop="17dp"
+                android:paddingBottom="15dp"
+                android:layout_gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/efeito_pressionado_modal"/>
+
+    </LinearLayout>
+</ScrollView>

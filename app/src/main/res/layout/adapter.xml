@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@android:color/transparent"
+    android:paddingBottom="25dp"
+    android:id="@+id/linearAdapter">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@android:color/white">
+
+        <TextView
+            android:background="@android:color/white"
+            android:paddingBottom="10dp"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Item 01"
+            android:id="@+id/txtTituloAdapter"
+            android:textSize="15dp"
+            android:layout_weight="1"/>
+
+
+        <ImageView
+            android:layout_width="56dp"
+            android:layout_height="46dp"
+            android:src="@drawable/ic_informacao"
+            android:background="@drawable/efeito_pressionado_icone"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:id="@+id/btnInfo"/>
+        </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/cinzaClaroBckgd"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@android:color/white">
+
+        <Button
+            android:id="@+id/btnPrevia"
+            android:background="@drawable/efeito_pressionado_fundo_branco"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/previa"
+            android:textAllCaps="false"
+            android:layout_gravity="center"/>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/cinzaClaroBckgd"/>
+
+        <Button
+            android:id="@+id/btnCodigo"
+            android:background="@drawable/efeito_pressionado_fundo_branco"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/codigo"
+            android:textAllCaps="false"/>
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/cinzaClaroBckgd"/>
+</LinearLayout>

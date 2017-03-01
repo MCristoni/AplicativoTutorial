@@ -1,0 +1,60 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Toolbar" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="android:background">@color/colorPrimary</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="CoresItensToolbar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Mudar a cor dos icones -->
+        <item name="colorControlNormal">@android:color/white</item>
+
+        <!-- Mudar cor título -->
+        <item name="android:textColorPrimary">@android:color/white</item>
+
+        <!-- Mudar cor texto -->
+        <item name="android:textColor">@android:color/black</item>
+
+        <item name="android:colorControlNormal" tools:ignore="NewApi">?colorControlNormal</item>
+
+        <!--Colocar efeito de elevado na Toolbar-->
+        <item name="android:elevation" tools:ignore="NewApi">4dp</item>
+
+        <!--Setar título-->
+        <item name="android:title">@string/app_name</item>
+
+        <!--Instaciar estilo de menu da Toolbar-->
+        <item name="actionOverflowMenuStyle">@style/ToolbarMenuStyle</item>
+    </style>
+
+    <!-- Setar DropDown de menu para ficar abaixo da Toolbar -->
+    <style name="ToolbarMenuStyle" parent="Widget.AppCompat.PopupMenu.Overflow">
+        <item name="android:overlapAnchor">false</item>
+        <item name="android:dropDownVerticalOffset">4.0dip</item>
+    </style>
+
+    <style name="dialog_theme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+
+</resources>

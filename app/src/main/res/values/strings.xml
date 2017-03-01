@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tutoriais</string>
+    <string name="previa">Prévia</string>
+    <string name="codigo">Código</string>
+    <string name="itemPrincipal">Item Principal</string>
+
+    <!-- Botões -->
+    <string name="entendi">Entendi</string>
+
+    <!-- Efeito pressionado -->
+    <string name="tituloEfeitoPressionado">Efeito Pressionado</string>
+    <string name="textoEfeitoPressionado">Este recurso é utilizado quando desejamos dar ao usuário uma resposta visual ao apertar um botão ou view.\n\nEm outras palavras, quando o usuário realizar um clique no local onde o recurso foi implementado, o seu mudará de cor.</string>
+</resources>
