@@ -5,64 +5,32 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="9580446016265"
-    token="6615194420403770512"
-    verifier="CLASS_ADDED" >
+    timestamp="35751666616846"
+    token="2913549808969196429"
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1809" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="574" />
+        duration="0" />
     <task
         name="verifier"
-        duration="98" />
-
-    <artifact
-        location="/Users/matheuscristoni/Desktop/Tutoriais/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="/Users/matheuscristoni/Desktop/Tutoriais/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/matheuscristoni/Desktop/Tutoriais/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/matheuscristoni/Desktop/Tutoriais/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/matheuscristoni/Desktop/Tutoriais/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-        type="DEX" />
+        duration="0" />
 
     <build
-        timestamp="3908822233114"
+        timestamp="35695712109639"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/matheuscristoni/Desktop/Tutoriais/app/build/outputs/apk/app-debug.apk"
+            location="E:\Projetos_AS\AplicativoTutorial\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="9580446016265"
-        verifier="CLASS_ADDED" >
-        <artifact
-            location="/Users/matheuscristoni/Desktop/Tutoriais/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="/Users/matheuscristoni/Desktop/Tutoriais/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/matheuscristoni/Desktop/Tutoriais/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/matheuscristoni/Desktop/Tutoriais/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/matheuscristoni/Desktop/Tutoriais/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-            type="DEX" />
-    </build>
+        timestamp="35751666616846"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

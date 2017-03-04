@@ -19,34 +19,20 @@ public class CustomDialog
 {
     Dialog dialog = null;
 
-    public void ShowDialog(final Activity activity, Item item)
+    public void ShowDialog(Activity context, Item item)
     {
-        dialog = new Dialog(activity, R.style.dialog_theme);
+        dialog = new Dialog(context, R.style.dialog_theme);
         dialog.setCancelable(false);
         dialog.setContentView(R.layout.custom_dialog);
 
         TextView txtTitulo = (TextView) dialog.findViewById(R.id.txtTituloDialog);
-        if (item.tituloInfo.isEmpty())
-        {
-            txtTitulo.setVisibility(View.GONE);
-        }
-        else
-        {
-            txtTitulo.setText(item.tituloInfo);
-        }
+        txtTitulo.setText(item.tituloDialog);
 
         TextView txtMensagem = (TextView) dialog.findViewById(R.id.txtMensagemDialog);
-        if (item.mensagemInfo.isEmpty())
-        {
-            txtMensagem.setVisibility(View.GONE);
-        }
-        else
-        {
-            txtMensagem.setText(item.mensagemInfo);
-        }
+        txtMensagem.setText(item.textoDialog);
 
         Button button = (Button) dialog.findViewById(R.id.btnOkDialog);
-        button.setText(activity.getString(R.string.entendi));
+        button.setText(context.getString(R.string.entendi));
         button.setOnClickListener(new View.OnClickListener()
         {
             @Override
@@ -76,4 +62,6 @@ public class CustomDialog
         dialog.onBackPressed();
         dialog.show();
     }
+
+
 }

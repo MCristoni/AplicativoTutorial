@@ -19,6 +19,13 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartilhar com %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="app_name">Tutoriais</string>
+    <string name="codigo">Código</string>
+    <string name="entendi">Entendi</string>
+    <string name="itemPrincipal">Item Principal</string>
+    <string name="previa">Prévia</string>
     <string msgid="146198913615257606" name="search_menu_title">"Pesquisar"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="textoEfeitoPressionado">Este recurso é utilizado quando desejamos dar ao usuário uma resposta visual ao apertar um botão ou view.\n\nEm outras palavras, quando o usuário realizar um clique no local onde o recurso foi implementado, o seu mudará de cor.</string>
+    <string name="tituloEfeitoPressionado">Efeito Pressionado</string>
 </resources>

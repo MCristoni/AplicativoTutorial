@@ -1,19 +1,15 @@
 package com.matheuscristoni.tutoriais;
 
 import android.os.Bundle;
-import android.support.design.widget.Snackbar;
-import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
 import android.widget.ListView;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import adapters.adapterLista;
+import adapters.adapterListaAndroid;
 import constantes.Constantes;
+import constantes.Item;
 import menu.MenuToolbar;
 
 public class MainActivity extends MenuToolbar
@@ -30,7 +26,8 @@ public class MainActivity extends MenuToolbar
 
         ListView lista = (ListView) findViewById(R.id.listaTeste);
 
-        List<String> listaItens = new ArrayList<>();
-        lista.setAdapter(new adapterLista(this, listaItens, Constantes.ANDROID));
+        List<Item> listaItens = new ArrayList<>();
+        listaItens.add(new Item(this, R.string.tituloEfeitoPressionado, R.string.textoEfeitoPressionado));
+        lista.setAdapter(new adapterListaAndroid(this, listaItens));
     }
 }
