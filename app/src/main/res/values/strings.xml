@@ -1,13 +1,17 @@
 <resources>
-    <string name="app_name">dddddd</string>
-    <string name="previa">ddddddddddddd</string>
-    <string name="codigo">ddddddd</string>
-    <string name="itemPrincipal">dddddddd</string>
+    <string name="app_name">Tutorials</string>
+    <string name="previa">Preview</string>
+    <string name="codigo">Code</string>
+    <string name="itemPrincipal">Main Item</string>
 
     <!-- Botões -->
-    <string name="entendi">ddddddddd</string>
+    <string name="entendi">Understood</string>
 
     <!-- Efeito pressionado -->
-    <string name="tituloEfeitoPressionado">dddddd</string>
-    <string name="textoEfeitoPressionado">ddddddddddddd</string>
+    <string name="tituloEfeitoPressionado">State Pressed</string>
+    <string name="textoEfeitoPressionado">Este recurso é utilizado quando desejamos dar ao usuário uma resposta visual ao apertar um botão ou view.\n\nEm outras palavras, quando o usuário realizar um clique no local onde o recurso foi implementado, o seu mudará de cor.</string>
+
+    <!--Navigation drawer-->
+    <string name="item_android_nativo">Native Android</string>
+
 </resources>

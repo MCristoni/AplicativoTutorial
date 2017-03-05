@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-utils-1.0.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/13cd92dc9f6eb022da6391eb0d9d19749c9f1892/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/13cd92dc9f6eb022da6391eb0d9d19749c9f1892/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.livroandroid/android-utils/1.0.5/37f9151d9a241487b23499f5f800973020474d22/android-utils-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
