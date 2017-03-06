@@ -19,6 +19,7 @@ public class MainActivity extends BaseActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         setUpToolbar();
+        setupNavigationDrawer();
 
         ListView lista = (ListView) findViewById(R.id.listaTeste);
         List<Item> listaItens = new ArrayList<>();

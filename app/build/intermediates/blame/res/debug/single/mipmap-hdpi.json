@@ -2,5 +2,9 @@
     {
         "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_menu.png",
+        "source": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/src/main/res/mipmap-hdpi/ic_menu.png"
     }
 ]

@@ -41,7 +41,7 @@ MERGED from [com.android.support:support-compat:25.2.0] /Users/matheuscristoni/.
 	android:icon
 		ADDED from /Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:10:9-52
+		ADDED from /Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:10:9-62
 activity#com.matheuscristoni.tutoriais.activity.MainActivity
 ADDED from /Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:11:9-17:20
 	android:name

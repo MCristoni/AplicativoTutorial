@@ -4,10 +4,6 @@
         "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/layout/navigation_drawer.xml",
-        "source": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/src/main/res/layout/navigation_drawer.xml"
-    },
-    {
         "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
         "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/layout/abc_activity_chooser_view.xml"
     },
@@ -94,6 +90,10 @@
     {
         "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/layout/navigation_drawer_menu.xml",
+        "source": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/src/main/res/layout/navigation_drawer_menu.xml"
     },
     {
         "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",

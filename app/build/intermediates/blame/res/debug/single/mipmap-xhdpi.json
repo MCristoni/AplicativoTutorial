@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_menu.png",
+        "source": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/src/main/res/mipmap-xhdpi/ic_menu.png"
+    },
+    {
         "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }

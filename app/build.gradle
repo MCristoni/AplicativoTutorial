@@ -30,5 +30,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.1.1'
     compile 'com.android.support:design:25.2.0'
     compile 'br.com.livroandroid:android-utils:1.0.5'
+    compile "com.android.support:support-core-utils:25.2.0"
     testCompile 'junit:junit:4.12'
 }

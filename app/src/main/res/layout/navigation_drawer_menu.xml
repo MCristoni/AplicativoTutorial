@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu 
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_height="wrap_content" android:layout_width="match_parent">
+    <group
+        android:checkableBehavior="single"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <item
+            android:id="@+id/nav_item_android"
+            android:icon="@drawable/android_icon"
+            android:title="@string/item_android_nativo"
+            android:checked="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <item
+            android:id="@+id/nav_item_android2"
+            android:icon="@drawable/apple_ios"
+            android:title="@string/item_android_nativo"
+            android:checked="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <item
+            android:id="@+id/nav_item_android3"
+            android:icon="@drawable/android_icon"
+            android:title="@string/item_android_nativo"
+            android:checked="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <item
+            android:id="@+id/nav_item_android4"
+            android:icon="@drawable/android_icon"
+            android:title="@string/item_android_nativo"
+            android:checked="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </group>
+
+</menu>

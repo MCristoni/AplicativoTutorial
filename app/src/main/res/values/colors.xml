@@ -3,6 +3,7 @@
     <!--Background-->
     <color name="cinzaClaroBckgd">#DCDCDC</color>
     <color name="efeitoPressionadoBackground">#E6E6E6</color>
+    <color name="cinzaEscuro">#AAAAAA</color>
 
     <!--Dialog-->
     <color name="backgroungDialog">#E2E6E5</color>
@@ -16,7 +17,7 @@
 
     <!-- Outras cores -->
     <color name="transparent">#0000</color>
-    <color name="white">#fff</color>
+    <color name="white">#FFFFFF</color>
     <color name="black">#000</color>
     <color name="blue">#00f</color>
     <color name="red">#f00</color>
