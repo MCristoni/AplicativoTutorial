@@ -53,6 +53,7 @@
     <string name="entendi">Entendi</string>
     <string name="itemPrincipal">Item Principal</string>
     <string name="item_android_nativo">Android Nativo</string>
+    <string name="item_ios_nativo">iOS Nativo</string>
     <string msgid="2132213647576279742" name="place_autocomplete_clear_button">"Limpar pesquisa"</string>
     <string msgid="4600782048316473865" name="place_autocomplete_search_hint">"Pesquisar"</string>
     <string name="previa">Prévia</string>

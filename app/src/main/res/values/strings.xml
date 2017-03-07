@@ -13,6 +13,9 @@
 
     <!--Navigation drawer-->
     <string name="item_android_nativo">Native Android</string>
+    <string name="item_ios_nativo">Native iOS</string>
+    <string name="item_xamarin_android" translatable="false">Xamarin Android</string>
+    <string name="item_xamarin_ios" translatable="false">Xamarin iOS</string>
 
 
 
@@ -43,8 +46,8 @@ Versao %s<br><br>
     <string name="luxo">Luxo</string>
 
     <!-- N -->
-    <string name="nav_drawer_username">Matheus Cristoni</string>
-    <string name="nav_drawer_email">matheusmgc@globo.com</string>
+    <string name="nav_drawer_username" translatable="false">Matheus Cristoni</string>
+    <string name="nav_drawer_email" translatable="false">matheusmgc@globo.com</string>
 
     <!-- O -->
     <string name="ok">OK</string>
@@ -54,7 +57,7 @@ Versao %s<br><br>
     <string name="site_do_livro">Site do Livro</string>
 
     <!-- V -->
-    <string name="vazio" />
+    <string name="vazio" translatable="false"/>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

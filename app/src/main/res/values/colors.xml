@@ -4,6 +4,7 @@
     <color name="cinzaClaroBckgd">#DCDCDC</color>
     <color name="efeitoPressionadoBackground">#E6E6E6</color>
     <color name="cinzaEscuro">#AAAAAA</color>
+    <color name="cinzaEscuro2">#777777</color>
 
     <!--Dialog-->
     <color name="backgroungDialog">#E2E6E5</color>

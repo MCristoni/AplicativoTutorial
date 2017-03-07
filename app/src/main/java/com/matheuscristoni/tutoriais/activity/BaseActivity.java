@@ -49,6 +49,7 @@ public class BaseActivity extends livroandroid.lib.activity.BaseActivity
         {
             setNavViewValues(navigationView, R.string.nav_drawer_username, R.string.nav_drawer_email, R.mipmap.ic_launcher);
             navigationView.getMenu().getItem(0).setChecked(true);
+            navigationView.setItemIconTintList(null);
 
 
             navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener()
@@ -114,12 +115,10 @@ public class BaseActivity extends livroandroid.lib.activity.BaseActivity
         switch (menuItem.getItemId())
         {
             case R.id.nav_item_android:
-                navigationView.setItemIconTintList(myList);
                 toast("Clicou em Android");
                 break;
 
             default:
-                navigationView.setItemIconTintList(myList2);
                 toast("Clicou em Android");
                 break;
 

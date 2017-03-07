@@ -11,4 +11,5 @@
 <string name="tituloEfeitoPressionado">Efeito Pressionado</string>
 <string name="textoEfeitoPressionado">Este recurso é utilizado quando desejamos dar ao usuário uma resposta visual ao apertar um botão ou view.\n\nEm outras palavras, quando o usuário realizar um clique no local onde o recurso foi implementado, o seu mudará de cor.</string>
     <string name="item_android_nativo">Android Nativo</string>
+    <string name="item_ios_nativo">iOS Nativo</string>
 </resources>

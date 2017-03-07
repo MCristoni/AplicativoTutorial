@@ -9,35 +9,36 @@
 
         <item
             android:id="@+id/nav_item_android"
-            android:icon="@drawable/android_icon"
+            android:icon="@drawable/android_icon_sombra"
             android:title="@string/item_android_nativo"
             android:checked="true"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
-
+            android:layout_height="wrap_content"
+            />
         <item
             android:id="@+id/nav_item_android2"
-            android:icon="@drawable/apple_ios"
-            android:title="@string/item_android_nativo"
+            android:icon="@drawable/ios_icon_sombra"
+            android:title="@string/item_ios_nativo"
             android:checked="true"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
-
+            android:layout_height="wrap_content"
+            />
         <item
             android:id="@+id/nav_item_android3"
-            android:icon="@drawable/android_icon"
-            android:title="@string/item_android_nativo"
+            android:icon="@drawable/xamarin_android_icon_sombra"
+            android:title="@string/item_xamarin_android"
             android:checked="true"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
-
+            android:layout_height="wrap_content"
+            />
         <item
             android:id="@+id/nav_item_android4"
-            android:icon="@drawable/android_icon"
-            android:title="@string/item_android_nativo"
+            android:icon="@drawable/xamarin_ios_icon_sombra"
+            android:title="@string/item_xamarin_ios"
             android:checked="true"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
+            android:layout_height="wrap_content"
+            />
     </group>
 
 </menu>

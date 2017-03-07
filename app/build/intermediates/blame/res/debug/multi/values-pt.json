@@ -1014,8 +1014,27 @@
                     "startLine": 55,
                     "startColumn": 4,
                     "startOffset": 7048,
+                    "endColumn": 54,
+                    "endOffset": 7098
+                },
+                "from": {
+                    "file": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 54,
+                        "endOffset": 729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 7103,
                     "endColumn": 105,
-                    "endOffset": 7149
+                    "endOffset": 7204
                 },
                 "from": {
                     "file": "/Users/matheuscristoni/.android/build-cache/7ad88890a638949781977937d109101b79dab99d/output/res/values-pt/location_strings.xml",
@@ -1030,11 +1049,11 @@
             },
             {
                 "to": {
-                    "startLine": 56,
+                    "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 7154,
+                    "startOffset": 7209,
                     "endColumn": 98,
-                    "endOffset": 7248
+                    "endOffset": 7303
                 },
                 "from": {
                     "file": "/Users/matheuscristoni/.android/build-cache/7ad88890a638949781977937d109101b79dab99d/output/res/values-pt/location_strings.xml",
@@ -1049,11 +1068,11 @@
             },
             {
                 "to": {
-                    "startLine": 57,
+                    "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 7253,
+                    "startOffset": 7308,
                     "endColumn": 41,
-                    "endOffset": 7290
+                    "endOffset": 7345
                 },
                 "from": {
                     "file": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/src/main/res/values-pt/strings.xml",
@@ -1068,11 +1087,11 @@
             },
             {
                 "to": {
-                    "startLine": 58,
+                    "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 7295,
+                    "startOffset": 7350,
                     "endColumn": 84,
-                    "endOffset": 7375
+                    "endOffset": 7430
                 },
                 "from": {
                     "file": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/values-pt/values-pt.xml",
@@ -1087,11 +1106,11 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 7380,
+                    "startOffset": 7435,
                     "endColumn": 100,
-                    "endOffset": 7476
+                    "endOffset": 7531
                 },
                 "from": {
                     "file": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/values-pt/values-pt.xml",
@@ -1106,11 +1125,11 @@
             },
             {
                 "to": {
-                    "startLine": 60,
+                    "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 7481,
+                    "startOffset": 7536,
                     "endColumn": 278,
-                    "endOffset": 7755
+                    "endOffset": 7810
                 },
                 "from": {
                     "file": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/src/main/res/values-pt/strings.xml",
@@ -1125,11 +1144,11 @@
             },
             {
                 "to": {
-                    "startLine": 61,
+                    "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 7760,
+                    "startOffset": 7815,
                     "endColumn": 70,
-                    "endOffset": 7826
+                    "endOffset": 7881
                 },
                 "from": {
                     "file": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/src/main/res/values-pt/strings.xml",

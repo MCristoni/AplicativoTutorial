@@ -32,20 +32,20 @@
         "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/go_to_phone_00222.png",
-        "source": "/Users/matheuscristoni/.android/build-cache/83863c22853f3825641b52aa8b8a29edec41e90b/output/res/drawable-mdpi-v4/go_to_phone_00222.png"
+        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/go_to_phone_00167.png",
+        "source": "/Users/matheuscristoni/.android/build-cache/83863c22853f3825641b52aa8b8a29edec41e90b/output/res/drawable-mdpi-v4/go_to_phone_00167.png"
     },
     {
         "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/go_to_phone_00218.png",
         "source": "/Users/matheuscristoni/.android/build-cache/83863c22853f3825641b52aa8b8a29edec41e90b/output/res/drawable-mdpi-v4/go_to_phone_00218.png"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/go_to_phone_00167.png",
-        "source": "/Users/matheuscristoni/.android/build-cache/83863c22853f3825641b52aa8b8a29edec41e90b/output/res/drawable-mdpi-v4/go_to_phone_00167.png"
+        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/go_to_phone_00222.png",
+        "source": "/Users/matheuscristoni/.android/build-cache/83863c22853f3825641b52aa8b8a29edec41e90b/output/res/drawable-mdpi-v4/go_to_phone_00222.png"
+    },
+    {
+        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/design_ic_visibility.png",
@@ -484,12 +484,12 @@
         "source": "/Users/matheuscristoni/.android/build-cache/83863c22853f3825641b52aa8b8a29edec41e90b/output/res/drawable-mdpi-v4/generic_confirmation_00192.png"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/go_to_phone_00217.png",
-        "source": "/Users/matheuscristoni/.android/build-cache/83863c22853f3825641b52aa8b8a29edec41e90b/output/res/drawable-mdpi-v4/go_to_phone_00217.png"
-    },
-    {
         "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/go_to_phone_00223.png",
         "source": "/Users/matheuscristoni/.android/build-cache/83863c22853f3825641b52aa8b8a29edec41e90b/output/res/drawable-mdpi-v4/go_to_phone_00223.png"
+    },
+    {
+        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/go_to_phone_00217.png",
+        "source": "/Users/matheuscristoni/.android/build-cache/83863c22853f3825641b52aa8b8a29edec41e90b/output/res/drawable-mdpi-v4/go_to_phone_00217.png"
     },
     {
         "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/go_to_phone_00220.png",
