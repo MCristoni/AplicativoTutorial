@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/17f84128750471f29f3b0f44aaedcb7d938d30b7/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\e9818e9396251c03f3d7047c9156c54c68da0aea\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/17f84128750471f29f3b0f44aaedcb7d938d30b7/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\17f84128750471f29f3b0f44aaedcb7d938d30b7\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\17f84128750471f29f3b0f44aaedcb7d938d30b7\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\e9818e9396251c03f3d7047c9156c54c68da0aea\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     }
 ]

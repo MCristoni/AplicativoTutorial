@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/menu/menu_actionbar.xml",
-        "source": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/src/main/res/menu/menu_actionbar.xml"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_actionbar.xml",
+        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\menu\\menu_actionbar.xml"
+    },
+    {
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_actionbar.xml",
+        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\menu\\menu_actionbar.xml"
     }
 ]

@@ -1,66 +1,130 @@
 [
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/color/design_error.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/17f84128750471f29f3b0f44aaedcb7d938d30b7/output/res/color/design_error.xml"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/color/abc_secondary_text_material_light.xml"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/0a208fed24272b9765eff3abd4c5044e27b3dcbe/output/res/color/common_google_signin_btn_text_light.xml"
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/0a208fed24272b9765eff3abd4c5044e27b3dcbe/output/res/color/common_plus_signin_btn_text_light.xml"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/color/abc_primary_text_material_dark.xml"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/color/switch_thumb_material_dark.xml"
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/color/abc_primary_text_material_light.xml"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/color/abc_hint_foreground_material_light.xml"
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/0a208fed24272b9765eff3abd4c5044e27b3dcbe/output/res/color/common_plus_signin_btn_text_dark.xml"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/color/abc_primary_text_disable_only_material_light.xml"
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/color/abc_hint_foreground_material_dark.xml"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/color/abc_search_url_text.xml"
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\17f84128750471f29f3b0f44aaedcb7d938d30b7\\output\\res\\color\\design_error.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/color/switch_thumb_material_light.xml"
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/0a208fed24272b9765eff3abd4c5044e27b3dcbe/output/res/color/common_google_signin_btn_text_dark.xml"
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\e9818e9396251c03f3d7047c9156c54c68da0aea\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
     }
 ]

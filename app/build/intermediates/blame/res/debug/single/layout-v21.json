@@ -1,22 +1,42 @@
 [
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\32735b7588ee44b64e01783c7eb5a98e193500e1\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/b914e74561cd69929932c85cd026e84fe8e6b13a/output/res/layout-v21/notification_action.xml"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "/Users/matheuscristoni/Desktop/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
-        "source": "/Users/matheuscristoni/.android/build-cache/7ad88890a638949781977937d109101b79dab99d/output/res/layout-v21/place_autocomplete_fragment.xml"
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\7ad88890a638949781977937d109101b79dab99d\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     }
 ]
