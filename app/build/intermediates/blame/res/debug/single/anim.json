@@ -1,130 +1,130 @@
 [
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_in.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\39854cfaf05542cf19a36c0a5912acd53b164b4e\\output\\res\\anim\\fab_in.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/mcristoni/.android/build-cache/a2fc9707c6a891d9cd32850c9afe58200a5146af/output/res/anim/design_fab_in.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/mcristoni/.android/build-cache/a2fc9707c6a891d9cd32850c9afe58200a5146af/output/res/anim/design_snackbar_in.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_out.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\39854cfaf05542cf19a36c0a5912acd53b164b4e\\output\\res\\anim\\fab_out.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\3193b1392507940fff0fae3cededf7da00e601e7\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim/fab_out.xml",
+        "source": "/Users/mcristoni/.android/build-cache/cc9b02612dc38c2106ed669049deccb399041279/output/res/anim/fab_out.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\17f84128750471f29f3b0f44aaedcb7d938d30b7\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\e9818e9396251c03f3d7047c9156c54c68da0aea\\output\\res\\anim\\design_snackbar_out.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\e9818e9396251c03f3d7047c9156c54c68da0aea\\output\\res\\anim\\design_fab_in.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\3193b1392507940fff0fae3cededf7da00e601e7\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\17f84128750471f29f3b0f44aaedcb7d938d30b7\\output\\res\\anim\\design_fab_out.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\e9818e9396251c03f3d7047c9156c54c68da0aea\\output\\res\\anim\\design_fab_out.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/mcristoni/.android/build-cache/a2fc9707c6a891d9cd32850c9afe58200a5146af/output/res/anim/design_fab_out.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_in.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\d3dfc49d53aeb9d2d80dff0442a78d2731414474\\output\\res\\anim\\fab_in.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_in.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\13cd92dc9f6eb022da6391eb0d9d19749c9f1892\\output\\res\\anim\\fab_in.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_out.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\d3dfc49d53aeb9d2d80dff0442a78d2731414474\\output\\res\\anim\\fab_out.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\17f84128750471f29f3b0f44aaedcb7d938d30b7\\output\\res\\anim\\design_fab_in.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/mcristoni/.android/build-cache/a2fc9707c6a891d9cd32850c9afe58200a5146af/output/res/anim/design_snackbar_out.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_out.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\13cd92dc9f6eb022da6391eb0d9d19749c9f1892\\output\\res\\anim\\fab_out.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\3193b1392507940fff0fae3cededf7da00e601e7\\output\\res\\anim\\design_fab_out.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\17f84128750471f29f3b0f44aaedcb7d938d30b7\\output\\res\\anim\\design_snackbar_out.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\3193b1392507940fff0fae3cededf7da00e601e7\\output\\res\\anim\\design_fab_in.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\e9818e9396251c03f3d7047c9156c54c68da0aea\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/anim/fab_in.xml",
+        "source": "/Users/mcristoni/.android/build-cache/cc9b02612dc38c2106ed669049deccb399041279/output/res/anim/fab_in.xml"
     }
 ]

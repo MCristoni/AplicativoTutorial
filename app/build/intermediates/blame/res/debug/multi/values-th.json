@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-th\\values-th.xml",
+        "outputFile": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 205
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 313
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 436
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 534
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 642
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 731
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 833
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 943
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 1020
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1098
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1179
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1287
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1391
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1489
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1597
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1702
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1803
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 1919
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 2014
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 2277
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 2403
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 2582
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 2707
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 2834
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 3036
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 3239
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 3365
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -524,7 +524,7 @@
                     "endOffset": 3525
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -543,7 +543,7 @@
                     "endOffset": 3646
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -562,7 +562,7 @@
                     "endOffset": 3811
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -581,7 +581,7 @@
                     "endOffset": 3940
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 4078
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -619,7 +619,7 @@
                     "endOffset": 4236
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -638,7 +638,7 @@
                     "endOffset": 4366
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -657,7 +657,7 @@
                     "endOffset": 4534
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -676,7 +676,7 @@
                     "endOffset": 4665
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -695,7 +695,7 @@
                     "endOffset": 4905
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\cb9003bb8dd7edb420ea085be7ac98ac2c625b01\\output\\res\\values-th\\common_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/03183df6e0df546948548d08fe9f82629e7e42e8/output/res/values-th/common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -714,7 +714,7 @@
                     "endOffset": 5135
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -733,7 +733,7 @@
                     "endOffset": 5257
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -752,7 +752,7 @@
                     "endOffset": 5364
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -771,7 +771,7 @@
                     "endOffset": 5542
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -790,7 +790,7 @@
                     "endOffset": 5666
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -809,7 +809,7 @@
                     "endOffset": 5865
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -828,7 +828,7 @@
                     "endOffset": 5996
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -847,7 +847,7 @@
                     "endOffset": 6177
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -866,7 +866,7 @@
                     "endOffset": 6270
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -885,7 +885,7 @@
                     "endOffset": 6368
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -904,7 +904,7 @@
                     "endOffset": 6482
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/values-th/base_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -923,7 +923,7 @@
                     "endOffset": 6585
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\32735b7588ee44b64e01783c7eb5a98e193500e1\\output\\res\\values-th\\location_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/6c4e1ce421b5b4fb7b1f8356c6aeea81817a165b/output/res/values-th/location_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -942,7 +942,7 @@
                     "endOffset": 6680
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\32735b7588ee44b64e01783c7eb5a98e193500e1\\output\\res\\values-th\\location_strings.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/6c4e1ce421b5b4fb7b1f8356c6aeea81817a165b/output/res/values-th/location_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -961,7 +961,7 @@
                     "endOffset": 6761
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -980,7 +980,7 @@
                     "endOffset": 6862
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-th/values-th.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -993,7 +993,7 @@
         ]
     },
     {
-        "outputFile": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-th\\values-th.xml",
+        "outputFile": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-th\\values-th.xml",
         "map": [
             {
                 "to": {
@@ -1004,7 +1004,7 @@
                     "endOffset": 205
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1023,7 +1023,7 @@
                     "endOffset": 313
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1042,7 +1042,7 @@
                     "endOffset": 436
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1061,7 +1061,7 @@
                     "endOffset": 534
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1080,7 +1080,7 @@
                     "endOffset": 642
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1099,7 +1099,7 @@
                     "endOffset": 731
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1118,7 +1118,7 @@
                     "endOffset": 833
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1137,7 +1137,7 @@
                     "endOffset": 943
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1156,7 +1156,7 @@
                     "endOffset": 1020
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1175,7 +1175,7 @@
                     "endOffset": 1098
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1194,7 +1194,7 @@
                     "endOffset": 1179
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1213,7 +1213,7 @@
                     "endOffset": 1287
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1232,7 +1232,7 @@
                     "endOffset": 1391
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1251,7 +1251,7 @@
                     "endOffset": 1489
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1270,7 +1270,7 @@
                     "endOffset": 1597
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1289,7 +1289,7 @@
                     "endOffset": 1702
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1308,7 +1308,7 @@
                     "endOffset": 1803
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1327,7 +1327,7 @@
                     "endOffset": 1919
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1346,7 +1346,7 @@
                     "endOffset": 2014
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1365,7 +1365,7 @@
                     "endOffset": 2277
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -1384,7 +1384,7 @@
                     "endOffset": 2403
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1403,7 +1403,7 @@
                     "endOffset": 2582
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1422,7 +1422,7 @@
                     "endOffset": 2707
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1441,7 +1441,7 @@
                     "endOffset": 2834
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1460,7 +1460,7 @@
                     "endOffset": 3036
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1479,7 +1479,7 @@
                     "endOffset": 3239
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1498,7 +1498,7 @@
                     "endOffset": 3365
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1517,7 +1517,7 @@
                     "endOffset": 3525
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1536,7 +1536,7 @@
                     "endOffset": 3646
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1555,7 +1555,7 @@
                     "endOffset": 3811
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1574,7 +1574,7 @@
                     "endOffset": 3940
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1593,7 +1593,7 @@
                     "endOffset": 4078
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1612,7 +1612,7 @@
                     "endOffset": 4236
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -1631,7 +1631,7 @@
                     "endOffset": 4366
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -1650,7 +1650,7 @@
                     "endOffset": 4534
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -1669,7 +1669,7 @@
                     "endOffset": 4665
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -1688,7 +1688,7 @@
                     "endOffset": 4905
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\e08ccf1bd40a94d8600e113916e6cf287ecea5a2\\output\\res\\values-th\\common_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\2a7c1ee36539e45044bd89376ceca5fa4e48aaea\\output\\res\\values-th\\common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1707,7 +1707,7 @@
                     "endOffset": 5135
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1726,7 +1726,7 @@
                     "endOffset": 5257
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1745,7 +1745,7 @@
                     "endOffset": 5364
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1764,7 +1764,7 @@
                     "endOffset": 5542
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1783,7 +1783,7 @@
                     "endOffset": 5666
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1802,7 +1802,7 @@
                     "endOffset": 5865
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1821,7 +1821,7 @@
                     "endOffset": 5996
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1840,7 +1840,7 @@
                     "endOffset": 6177
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1859,7 +1859,7 @@
                     "endOffset": 6270
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1878,7 +1878,7 @@
                     "endOffset": 6368
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -1897,7 +1897,7 @@
                     "endOffset": 6482
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\values-th\\base_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\values-th\\base_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -1916,7 +1916,7 @@
                     "endOffset": 6585
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\7ad88890a638949781977937d109101b79dab99d\\output\\res\\values-th\\location_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\076c6959a47d474b1a93a9256c5f5db9ea2391c9\\output\\res\\values-th\\location_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1935,7 +1935,7 @@
                     "endOffset": 6680
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\7ad88890a638949781977937d109101b79dab99d\\output\\res\\values-th\\location_strings.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\076c6959a47d474b1a93a9256c5f5db9ea2391c9\\output\\res\\values-th\\location_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1954,7 +1954,7 @@
                     "endOffset": 6761
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1973,7 +1973,7 @@
                     "endOffset": 6862
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-th\\values-th.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-th\\values-th.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

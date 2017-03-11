@@ -1,586 +1,586 @@
 [
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/ic_menu.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/ic_menu.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\3193b1392507940fff0fae3cededf7da00e601e7\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_item_icon_color2.xml",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\drawer_item_icon_color2.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\efeito_pressionado_modal.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\efeito_pressionado_modal.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/mcristoni/.android/build-cache/a2fc9707c6a891d9cd32850c9afe58200a5146af/output/res/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xamarin_android_icon.png",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\xamarin_android_icon.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\efeito_pressionado_icone.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\efeito_pressionado_icone.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xamarin_ios_icon_sombra.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\xamarin_ios_icon_sombra.png"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\3193b1392507940fff0fae3cededf7da00e601e7\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\83863c22853f3825641b52aa8b8a29edec41e90b\\output\\res\\drawable\\card_background.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/nav_drawer_header.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/nav_drawer_header.png"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xamarin_ios_icon_sombra.png",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\xamarin_ios_icon_sombra.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/xamarin_ios_icon_sombra.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/xamarin_ios_icon_sombra.png"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/xamarin_android_icon.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/xamarin_android_icon.png"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/mcristoni/.android/build-cache/a2fc9707c6a891d9cd32850c9afe58200a5146af/output/res/drawable/design_fab_background.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_informacao.xml",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\ic_informacao.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/background_dialog.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/background_dialog.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\ic_menu.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu.xml",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\ic_menu.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu.xml",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\ic_menu.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\efeito_pressionado_fundo_branco.xml",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\efeito_pressionado_fundo_branco.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apple_ios.png",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\apple_ios.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/drawer_item_icon_color2.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/drawer_item_icon_color2.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\confirmation_animation.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable\\confirmation_animation.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_pressionado_i.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\background_pressionado_i.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xamarin_ios_icon.png",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\xamarin_ios_icon.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_icon_sombra.png",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\android_icon_sombra.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_informacao.xml",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\ic_informacao.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_icon_sombra.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\android_icon_sombra.png"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\efeito_pressionado_icone.xml",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\efeito_pressionado_icone.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable\\card_background.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/ios_icon_sombra.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/ios_icon_sombra.png"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\go_to_phone_animation.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable\\go_to_phone_animation.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/drawer_item_text_color.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/drawer_item_text_color.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\e9818e9396251c03f3d7047c9156c54c68da0aea\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\efeito_pressionado_modal.xml",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\efeito_pressionado_modal.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\17f84128750471f29f3b0f44aaedcb7d938d30b7\\output\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable\\card_background.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xamarin_ios_icon2.png",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\xamarin_ios_icon2.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xamarin_android_icon_sombra.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\xamarin_android_icon_sombra.png"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/card_background.xml",
+        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable/card_background.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\go_to_phone_animation.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\83863c22853f3825641b52aa8b8a29edec41e90b\\output\\res\\drawable\\go_to_phone_animation.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/close_button.xml",
+        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable/close_button.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\e9818e9396251c03f3d7047c9156c54c68da0aea\\output\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/confirmation_animation.xml",
+        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable/confirmation_animation.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/xamarin_android_icon_sombra.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/xamarin_android_icon_sombra.png"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ios_icon.png",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\ios_icon.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xamarin_ios_icon.png",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\xamarin_ios_icon.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/ios_icon.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/ios_icon.png"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_icon_sombra.png",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\android_icon_sombra.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\17f84128750471f29f3b0f44aaedcb7d938d30b7\\output\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xamarin_android_icon_sombra.png",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\xamarin_android_icon_sombra.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ios_icon_sombra.png",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\ios_icon_sombra.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_dialog.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\background_dialog.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\efeito_pressionado_fundo_branco.xml",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\efeito_pressionado_fundo_branco.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_drawer_header.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\nav_drawer_header.png"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable\\close_button.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\efeito_pressionado_fundo_branco.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\efeito_pressionado_fundo_branco.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\confirmation_animation.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\83863c22853f3825641b52aa8b8a29edec41e90b\\output\\res\\drawable\\confirmation_animation.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/efeito_pressionado_fundo_branco.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/efeito_pressionado_fundo_branco.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\efeito_pressionado_modal.xml",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\efeito_pressionado_modal.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/drawable/common_plus_signin_btn_text_dark.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\3193b1392507940fff0fae3cededf7da00e601e7\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\efeito_pressionado_icone.xml",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\efeito_pressionado_icone.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable\\close_button.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_ic_search_api_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/drawer_item_icon_color.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/drawer_item_icon_color.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xamarin_ios_icon_sombra.png",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\xamarin_ios_icon_sombra.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/ic_informacao.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/ic_informacao.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\go_to_phone_animation.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable\\go_to_phone_animation.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ios_icon.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\ios_icon.png"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ios_icon_sombra.png",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\ios_icon_sombra.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xamarin_android_icon.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\xamarin_android_icon.png"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xamarin_ios_icon2.png",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\xamarin_ios_icon2.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apple_ios.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\apple_ios.png"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_item_icon_color2.xml",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\drawer_item_icon_color2.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xamarin_ios_icon2.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\xamarin_ios_icon2.png"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xamarin_ios_icon.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\xamarin_ios_icon.png"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_drawer_header.png",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\nav_drawer_header.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_item_icon_color.xml",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\drawer_item_icon_color.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_nao_pressionado_i.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\background_nao_pressionado_i.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/efeito_pressionado_modal.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/efeito_pressionado_modal.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_item_text_color.xml",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\drawer_item_text_color.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/go_to_phone_animation.xml",
+        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable/go_to_phone_animation.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/drawable/common_plus_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/notification_tile_bg.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\0a208fed24272b9765eff3abd4c5044e27b3dcbe\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_dialog.xml",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\background_dialog.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/apple_ios.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/apple_ios.png"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_pressionado_i.xml",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\background_pressionado_i.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/efeito_pressionado_icone.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/efeito_pressionado_icone.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_dialog.xml",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\background_dialog.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/mcristoni/.android/build-cache/a2fc9707c6a891d9cd32850c9afe58200a5146af/output/res/drawable/design_snackbar_background.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_nao_pressionado_i.xml",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\background_nao_pressionado_i.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/drawable/common_plus_signin_btn_text_light.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apple_ios.png",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\apple_ios.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\confirmation_animation.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable\\confirmation_animation.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_informacao.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\ic_informacao.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_icon.png",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\android_icon.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_drawer_header.png",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\nav_drawer_header.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\17f84128750471f29f3b0f44aaedcb7d938d30b7\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\e9818e9396251c03f3d7047c9156c54c68da0aea\\output\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/xamarin_ios_icon2.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/xamarin_ios_icon2.png"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xamarin_android_icon.png",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\xamarin_android_icon.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_item_icon_color.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\drawer_item_icon_color.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ios_icon.png",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\ios_icon.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_icon.png",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\android_icon.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xamarin_android_icon_sombra.png",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\xamarin_android_icon_sombra.png"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/xamarin_ios_icon.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/xamarin_ios_icon.png"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/background_nao_pressionado_i.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/background_nao_pressionado_i.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_item_icon_color.xml",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\drawer_item_icon_color.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\83863c22853f3825641b52aa8b8a29edec41e90b\\output\\res\\drawable\\close_button.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/res/drawable/common_plus_signin_btn_icon_light.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_item_text_color.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\drawer_item_text_color.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\5a58da26be7f4fd980136f71a8086265f967d63c\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/android_icon_sombra.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/android_icon_sombra.png"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_nao_pressionado_i.xml",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\background_nao_pressionado_i.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/android_icon.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/android_icon.png"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_item_text_color.xml",
-        "source": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\drawer_item_text_color.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ios_icon_sombra.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\ios_icon_sombra.png"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_pressionado_i.xml",
-        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\drawable\\background_pressionado_i.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_icon.png",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\android_icon.png"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/background_pressionado_i.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/drawable/background_pressionado_i.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\mathe\\.android\\build-cache\\d0d82d54887e2893ade524ee53326d4536294d36\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_item_icon_color2.xml",
+        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\drawable\\drawer_item_icon_color2.xml"
     }
 ]

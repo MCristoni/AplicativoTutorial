@@ -1,0 +1,46 @@
+    Diferentes modos de efetuar um click
+
+    Metodo 01:
+        - Geralmente Utilizado
+
+    btn.setOnClickListener(new View.OnClickListener()
+    {
+       @Override
+       onClick(View view)
+       {
+            Efetuar o que necessário
+       }
+    });
+
+
+
+    Metodo 02:
+        - Implementando View.OnClickListener
+
+    btn.setOnClickListener(this);
+
+    @Override
+    public void onClick(View v)
+    {
+        Efetuar o que necessário
+    }
+    Vale lembrar que caso haja mais de um evento de click, esse evento será chamado par todos, devendo ser tratado por:
+    if(view.getId() == R.id.btnPressionado)
+
+
+
+    Metodo 03:
+        - Criar um método para cada botão
+
+    btn.setOnClickListener(metodo());
+    metodo(deve retornar View.OnClickListener)
+    private View.OnClickListener metodo()
+    {
+        return new Button.OnClickListener()
+        {
+            public void onClick(View v)
+            {
+                Efetuar o que necessário
+            }
+        };
+    }

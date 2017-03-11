@@ -50,6 +50,7 @@
     <string msgid="311697239335516384" name="common_open_on_phone">"Abrir no smartphone"</string>
     <string msgid="3156914698180786012" name="common_signin_button_text">"Fazer login"</string>
     <string msgid="1483290677806110088" name="common_signin_button_text_long">"Fazer login com o Google"</string>
+    <string name="configuracoes">Configurações</string>
     <string name="entendi">Entendi</string>
     <string name="itemPrincipal">Item Principal</string>
     <string name="item_android_nativo">Android Nativo</string>
@@ -58,7 +59,8 @@
     <string msgid="4600782048316473865" name="place_autocomplete_search_hint">"Pesquisar"</string>
     <string name="previa">Prévia</string>
     <string msgid="146198913615257606" name="search_menu_title">"Pesquisar"</string>
+    <string name="sobre">Sobre</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
-    <string name="textoEfeitoPressionado">Este recurso é utilizado quando desejamos dar ao usuário uma resposta visual ao apertar um botão ou view.\n\nEm outras palavras, quando o usuário realizar um clique no local onde o recurso foi implementado, o seu mudará de cor.</string>
-    <string name="tituloEfeitoPressionado">Efeito Pressionado</string>
+    <string name="textoEfeitoPressionado">Este recurso é utilizado quando desejamos dar ao usuário uma resposta visual ao apertar um botão ou view.\n\nEm outras palavras, quando o usuário realizar um clique no local onde o recurso foi implementado, o seu fundo (background) mudará de cor.</string>
+    <string name="tituloEfeitoPressionado">Efeito Pressionado / Efeito Ripple</string>
 </resources>

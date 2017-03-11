@@ -21,6 +21,7 @@ import com.matheuscristoni.tutoriais.R;
 public class BaseActivity extends livroandroid.lib.activity.BaseActivity
 {
     protected DrawerLayout drawerLayout;
+    private static final String TAG = "Erros";
 
     //Configura Toolbar
     protected void setUpToolbar()
@@ -88,30 +89,6 @@ public class BaseActivity extends livroandroid.lib.activity.BaseActivity
     //Trata eventos do menu lateral
     private void onNavDrawerItemSelected(MenuItem menuItem, NavigationView navigationView)
     {
-        int[][] states = new int[][] {
-                new int[] { android.R.attr.state_checked},
-                new int[] {-android.R.attr.state_checked} // unchecked
-        };
-
-        int[] colors = new int[] {
-                getColor(R.color.android_icon),
-                Color.BLACK
-        };
-
-
-        int[] colors2 = new int[] {
-                getColor(R.color.blue),
-                Color.BLACK
-        };
-
-        // TODO: 06/03/17 - Parei aqui, realizar para os 4 icones
-
-        //Cor Android
-        ColorStateList myList = new ColorStateList(states, colors);
-
-        //Cor iOS
-        ColorStateList myList2 = new ColorStateList(states, colors2);
-
         switch (menuItem.getItemId())
         {
             case R.id.nav_item_android:

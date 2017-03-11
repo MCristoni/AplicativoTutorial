@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Users\\matheuscristoni\\Desktop\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "E:\\Users\\matheuscristoni\\.android\\build-cache\\b914e74561cd69929932c85cd026e84fe8e6b13a\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "outputFile": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -38,7 +38,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\4d40091a9312761bb24f1cd0a1f25aab42e46f6d\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
