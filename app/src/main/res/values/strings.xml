@@ -1,33 +1,38 @@
 <resources>
+    <!-- A -->
     <string name="app_name">Tutorials</string>
-    <string name="previa">Preview</string>
-    <string name="codigo">Code</string>
-    <string name="itemPrincipal">Main Item</string>
 
-    <!-- Botões -->
+    <!-- B -->
+
+    <!-- C -->
+    <string name="codigo">Code</string>
+    <string name="configuracoes">Settings</string>
+
+    <!-- D -->
+
+    <!-- E -->
     <string name="entendi">Understood</string>
 
-    <!-- Efeito pressionado -->
-    <string name="tituloEfeitoPressionado">State Pressed / Ripple Effect</string>
-    <string name="textoEfeitoPressionado">This is used when we want to give our user a tactile response when he presses a button or view.\n\nIn other words, when the user clicks on the location where this was implemented, the background will change its color.</string>
+    <!-- F -->
 
-    <!--Navigation drawer-->
+    <!-- G -->
+
+    <!-- H -->
+
+    <!-- I -->
     <string name="item_android_nativo">Native Android</string>
     <string name="item_ios_nativo">Native iOS</string>
+    <string name="item_Principal">Main Item</string>
     <string name="item_xamarin_android" translatable="false">Xamarin Android</string>
     <string name="item_xamarin_ios" translatable="false">Xamarin iOS</string>
 
+    <!-- J -->
 
-
-
-    <!-- A -->
-
-    <!-- C -->
-    <string name="configuracoes">Settings</string>
-
-    <!-- E -->
+    <!-- K -->
 
     <!-- L -->
+
+    <!-- M -->
 
     <!-- N -->
     <string name="nav_drawer_username" translatable="false">Matheus Cristoni</string>
@@ -36,10 +41,31 @@
     <!-- O -->
     <string name="ok" translatable="false">OK</string>
 
+    <!-- P -->
+    <string name="previa">Preview</string>
+
+    <!-- Q -->
+
+    <!-- R -->
+
     <!-- S -->
     <string name="sobre">About</string>
 
+    <!-- T -->
+    <string name="texto_Efeito_Pressionado">This is used when we want to give our user a tactile response when he presses a button or view.\n\nIn other words, when the user clicks on the location where this was implemented, the background will change its color.</string>
+    <string name="titulo_Efeito_Pressionado">State Pressed / Ripple Effect</string>
+
+    <!-- U -->
+
     <!-- V -->
     <string name="vazio" translatable="false"/>
+    <string name="icone_i">Icone_i</string>
 
+    <!-- W -->
+
+    <!-- X -->
+
+    <!-- Y -->
+
+    <!-- Z -->
 </resources>

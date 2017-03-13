@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_actionbar.xml",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\src\\main\\res\\menu\\menu_actionbar.xml"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/menu/menu_actionbar.xml",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/res/menu/menu_actionbar.xml"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_actionbar.xml",
+        "source": "E:\\Projetos_AS\\AplicativoTutorial\\app\\src\\main\\res\\menu\\menu_actionbar.xml"
     }
 ]

@@ -18,23 +18,32 @@
             android:paddingBottom="10dp"
             android:paddingTop="@dimen/activity_vertical_margin"
             android:paddingLeft="@dimen/activity_horizontal_margin"
-            android:layout_width="match_parent"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:text="Item 01"
             android:id="@+id/txtTituloAdapter"
-            android:textSize="15dp"
+            android:textSize="15sp"
             android:layout_weight="1"/>
 
-
-        <ImageView
+        <FrameLayout
             android:layout_width="56dp"
-            android:layout_height="46dp"
-            android:src="@drawable/ic_informacao"
-            android:background="@drawable/efeito_pressionado_icone"
-            android:paddingRight="@dimen/activity_horizontal_margin"
-            android:paddingLeft="@dimen/activity_horizontal_margin"
-            android:id="@+id/btnInfo"/>
-        </LinearLayout>
+            android:layout_height="46dp">
+            <View
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:layout_gravity="center"
+                android:background="@color/transparent"/>
+            <ImageView
+                android:contentDescription="@string/icone_i"
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:paddingTop="6dp"
+                android:paddingBottom="6dp"
+                android:layout_gravity="center"
+                android:src="@drawable/ic_informacao"
+                android:background="@drawable/efeito_pressionado_icone"
+                android:id="@+id/btnInfo"/>
+        </FrameLayout>
+    </LinearLayout>
 
     <View
         android:layout_width="match_parent"
@@ -64,12 +73,12 @@
 
         <Button
             android:id="@+id/btnCodigo"
-            android:background="@drawable/efeito_pressionado_fundo_branco"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:background="@drawable/efeito_pressionado_fundo_branco"
             android:text="@string/codigo"
-            android:textAllCaps="false"/>
+            android:textAllCaps="false" />
     </LinearLayout>
     <View
         android:layout_width="match_parent"

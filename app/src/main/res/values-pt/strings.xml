@@ -1,17 +1,71 @@
 <resources>
-<string name="app_name">Tutoriais</string>
-<string name="previa">Prévia</string>
-<string name="codigo">Código</string>
-<string name="itemPrincipal">Item Principal</string>
+    <!-- A -->
+    <string name="app_name">Tutoriais</string>
 
-<!-- Botões -->
-<string name="entendi">Entendi</string>
+    <!-- B -->
 
-<!-- Efeito pressionado -->
-<string name="tituloEfeitoPressionado">Efeito Pressionado / Efeito Ripple</string>
-<string name="textoEfeitoPressionado">Este recurso é utilizado quando desejamos dar ao usuário uma resposta visual ao apertar um botão ou view.\n\nEm outras palavras, quando o usuário realizar um clique no local onde o recurso foi implementado, o seu fundo (background) mudará de cor.</string>
+    <!-- C -->
+    <string name="codigo">Código</string>
+    <string name="configuracoes">Configurações</string>
+
+    <!-- D -->
+
+    <!-- E -->
+    <string name="entendi">Entendi</string>
+
+    <!-- F -->
+
+    <!-- G -->
+
+    <!-- H -->
+
+    <!-- I -->
+    <string name="icone_i">Icone_i</string>
     <string name="item_android_nativo">Android Nativo</string>
     <string name="item_ios_nativo">iOS Nativo</string>
+    <string name="item_xamarin_android" translatable="false">Xamarin Android</string>
+    <string name="item_xamarin_ios" translatable="false">Xamarin iOS</string>
+    <string name="item_Principal">Item Principal</string>
+
+    <!-- J -->
+
+    <!-- K -->
+
+    <!-- L -->
+
+    <!-- M -->
+
+    <!-- N -->
+    <string name="nav_drawer_username" translatable="false">Matheus Cristoni</string>
+    <string name="nav_drawer_email" translatable="false">matheusmgc@globo.com</string>
+
+    <!-- O -->
+    <string name="ok" translatable="false">OK</string>
+
+    <!-- P -->
+    <string name="previa">Prévia</string>
+
+    <!-- Q -->
+
+    <!-- R -->
+
+    <!-- S -->
     <string name="sobre">Sobre</string>
-    <string name="configuracoes">Configurações</string>
+
+    <!-- T -->
+    <string name="texto_Efeito_Pressionado">Este recurso é utilizado quando desejamos dar ao usuário uma resposta visual ao apertar um botão ou view.\n\nEm outras palavras, quando o usuário realizar um clique no local onde o recurso foi implementado, o seu fundo (background) mudará de cor.</string>
+    <string name="titulo_Efeito_Pressionado">Efeito Pressionado / Efeito Ripple</string>
+
+    <!-- U -->
+
+    <!-- V -->
+    <string name="vazio" translatable="false"/>
+
+    <!-- W -->
+
+    <!-- X -->
+
+    <!-- Y -->
+
+    <!-- Z -->
 </resources>

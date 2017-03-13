@@ -25,18 +25,16 @@
         <item name="windowNoTitle">true</item>
     </style>
 
-    <!-- Tema para o Navigation Drawer -->
-    <style name="AppTheme.NoActionBar.NavDrawer"></style>
+    <!--&lt;!&ndash; Tema para o Navigation Drawer &ndash;&gt;-->
+    <!--<style name="AppTheme.NoActionBar.NavDrawer"></style>-->
 
-    <!-- Temas para a Toolbar, ver include_toolbar.xml -->
-    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <!--&lt;!&ndash; Temas para a Toolbar, ver include_toolbar.xml &ndash;&gt;-->
+    <!--<style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />-->
 
-    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <!--<style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />-->
 
-    <!-- Tema base + NoActionBar -->
-    <style name="AppTheme.NavDrawer">
-
-    </style>
+    <!--&lt;!&ndash; Tema base + NoActionBar &ndash;&gt;-->
+    <!--<style name="AppTheme.NavDrawer"/>-->
 
 
     <style name="CoresItensToolbar" parent="Theme.AppCompat.Light.NoActionBar">
@@ -83,8 +81,8 @@
     </style>
 
     <style name="NavigationDrawerStyle">
-        <item name="android:textSize">17dp</item><!-- Tamanho do texto no menu -->
-        <item name="android:listPreferredItemHeightSmall">50dp</item>
+        <item name="android:textSize">17sp</item><!-- Tamanho do texto no menu -->
+        <item name="android:listPreferredItemHeightSmall">65dp</item>
         <!--  <item name="android:listPreferredItemHeightSmall">100dp</item> Tamanho de cada item no menu-->
     </style>
 </resources>

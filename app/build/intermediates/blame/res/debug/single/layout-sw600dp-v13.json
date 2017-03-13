@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\3193b1392507940fff0fae3cededf7da00e601e7\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/Users/mcristoni/.android/build-cache/a2fc9707c6a891d9cd32850c9afe58200a5146af/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\03144b514733a5c45ca92230d675089f5a886ce0\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

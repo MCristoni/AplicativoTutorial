@@ -1,1074 +1,538 @@
 [
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00170.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00170.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\03144b514733a5c45ca92230d675089f5a886ce0\\output\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00210.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00210.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00215.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00215.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00224.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00224.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00167.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00167.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00193.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00193.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00196.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00196.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00162.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00162.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00185.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00185.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00176.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00176.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00218.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00218.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_48dp.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00159.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00159.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00165.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00165.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00214.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00214.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00171.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00171.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00173.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00173.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00173.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00173.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00200.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00200.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00192.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00192.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_16dp.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00161.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00161.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00187.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00187.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00175.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00175.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00191.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00191.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00221.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00221.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00168.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00168.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00163.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00163.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility_off.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\3193b1392507940fff0fae3cededf7da00e601e7\\output\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00174.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00174.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00189.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00189.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00187.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00187.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00213.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00213.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00185.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00185.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00158.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00158.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00216.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00216.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00177.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00177.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00193.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00193.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00177.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00177.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00190.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00190.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00216.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00216.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00212.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00212.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00188.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00188.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00171.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00171.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00173.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00173.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00168.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00168.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00218.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00218.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00165.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00165.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00165.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00165.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00163.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00163.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00212.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00212.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00187.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00187.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00200.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00200.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00191.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00191.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00158.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00158.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00156.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00156.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00166.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00166.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\03144b514733a5c45ca92230d675089f5a886ce0\\output\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00178.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00178.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00189.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00189.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_full_cancel.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\ic_full_cancel.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00222.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00222.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\card_frame_pressed.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\card_frame_pressed.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00172.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00172.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00169.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00169.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00169.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00169.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00175.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00175.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00191.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00191.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00217.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00217.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00197.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00197.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00194.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00194.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00194.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00194.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00190.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00190.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00214.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00214.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00188.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00188.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00172.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00172.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00172.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00172.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00185.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00185.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00164.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00164.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00188.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00188.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00175.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00175.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00161.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00161.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00163.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00163.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00199.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00199.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00166.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00166.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00175.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00175.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00199.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00199.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00194.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00194.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00170.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00170.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00187.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00187.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00171.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00171.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00211.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00211.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_full_sad.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\ic_full_sad.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00156.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00156.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00223.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00223.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00216.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00216.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00168.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00168.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00157.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00157.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00168.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00168.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00212.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00212.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00198.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00198.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/card_frame.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/card_frame.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00186.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00186.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00172.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00172.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00165.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00165.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00224.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00224.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00193.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00193.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00169.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00169.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_36dp.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\card_frame_pressed.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\card_frame_pressed.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00158.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00158.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00167.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00167.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00221.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00221.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00185.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00185.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00166.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00166.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00163.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00163.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00210.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00210.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00195.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00195.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00219.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00219.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00190.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00190.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_full_cancel.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/ic_full_cancel.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00185.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00185.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00171.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00171.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00190.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00190.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00220.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00220.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00165.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00165.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00160.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00160.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\card_frame.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\card_frame.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00210.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00210.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00176.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00176.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00165.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00165.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00215.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00215.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00196.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00196.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00170.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00170.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00190.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00190.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00189.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00189.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00160.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00160.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00173.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00173.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00187.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00187.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00220.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00220.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00166.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00166.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00157.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00157.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00167.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00167.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00164.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00164.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00161.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00161.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00195.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00195.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00175.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00175.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00187.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00187.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00190.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00190.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00211.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00211.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00192.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00192.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00164.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00164.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00186.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00186.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00167.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00167.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00176.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00176.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00160.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00160.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00186.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00186.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00192.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00192.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00217.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00217.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00189.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00189.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00200.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00200.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/design_ic_visibility.png",
-        "source": "/Users/mcristoni/.android/build-cache/a2fc9707c6a891d9cd32850c9afe58200a5146af/output/res/drawable-hdpi-v4/design_ic_visibility.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00170.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\go_to_phone_00170.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00174.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00174.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00156.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00156.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00164.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00164.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00186.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00186.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00186.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00186.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00169.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00169.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00217.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00217.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00172.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00172.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00169.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00169.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/design_ic_visibility_off.png",
-        "source": "/Users/mcristoni/.android/build-cache/a2fc9707c6a891d9cd32850c9afe58200a5146af/output/res/drawable-hdpi-v4/design_ic_visibility_off.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00164.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00164.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00172.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00172.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00185.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00185.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00220.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00220.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00195.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00195.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00186.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00186.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00171.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00171.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00166.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00166.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00170.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00170.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00219.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00219.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00198.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00198.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00174.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00174.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\3193b1392507940fff0fae3cededf7da00e601e7\\output\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00157.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00157.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00223.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00223.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00168.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00168.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_full_sad.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/ic_full_sad.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00221.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00221.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00162.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00162.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00222.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00222.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00159.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00159.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00215.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00215.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00167.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00167.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00188.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00188.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00174.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00174.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_full_cancel.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\ic_full_cancel.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00168.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00168.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00166.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00166.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00191.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00191.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00196.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00196.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00193.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00193.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00211.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00211.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/card_frame_pressed.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/card_frame_pressed.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00178.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00178.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00191.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00191.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00197.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00197.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00173.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00173.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00177.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00177.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\card_frame.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\card_frame.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00175.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00175.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00193.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00193.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00178.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00178.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00189.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00189.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00163.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00163.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00163.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00163.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00169.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00169.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00224.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00224.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_full_sad.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\ic_full_sad.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00213.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00213.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00162.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00162.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00188.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00188.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00218.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00218.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00174.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00174.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00192.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00192.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00192.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00192.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00191.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00191.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00173.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00173.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00198.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00198.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00213.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00213.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00193.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00193.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00164.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00164.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00188.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00188.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00214.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00214.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00219.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00219.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00199.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00199.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00222.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00222.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00174.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00174.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00170.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00170.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00223.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00223.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00197.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00197.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00192.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00192.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/go_to_phone_00159.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/go_to_phone_00159.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\ea8e46c57be0bd56450cd14bf82674e795934122\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Users\\n224712352\\Downloads\\AplicativoTutorial-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_to_phone_00189.png",
-        "source": "/Volumes/HD1TB/GitHub/AplicativoTutorial/C:\\Android\\.android\\build-cache\\40326d068552fde3fa17409e76eb8521605a7743\\output\\res\\drawable-hdpi-v4\\go_to_phone_00189.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/generic_confirmation_00167.png",
-        "source": "/Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/res/drawable-hdpi-v4/generic_confirmation_00167.png"
-    },
-    {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "/Users/mcristoni/.android/build-cache/478edf3059e1684a6e04a84b43f6b478a9d736c3/output/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\generic_confirmation_00171.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\\output\\res\\drawable-hdpi-v4\\generic_confirmation_00171.png"
     }
 ]

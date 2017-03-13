@@ -62,16 +62,16 @@ public final class R {
         public static final int place_autocomplete_separator = 0x7f0c0061;
     }
     public static final class dimen {
-        public static final int place_autocomplete_button_padding = 0x7f0800ab;
-        public static final int place_autocomplete_powered_by_google_height = 0x7f0800ac;
-        public static final int place_autocomplete_powered_by_google_start = 0x7f0800ad;
-        public static final int place_autocomplete_prediction_height = 0x7f0800ae;
-        public static final int place_autocomplete_prediction_horizontal_margin = 0x7f0800af;
-        public static final int place_autocomplete_prediction_primary_text = 0x7f0800b0;
-        public static final int place_autocomplete_prediction_secondary_text = 0x7f0800b1;
-        public static final int place_autocomplete_progress_horizontal_margin = 0x7f0800b2;
-        public static final int place_autocomplete_progress_size = 0x7f0800b3;
-        public static final int place_autocomplete_separator_start = 0x7f0800b4;
+        public static final int place_autocomplete_button_padding = 0x7f0800aa;
+        public static final int place_autocomplete_powered_by_google_height = 0x7f0800ab;
+        public static final int place_autocomplete_powered_by_google_start = 0x7f0800ac;
+        public static final int place_autocomplete_prediction_height = 0x7f0800ad;
+        public static final int place_autocomplete_prediction_horizontal_margin = 0x7f0800ae;
+        public static final int place_autocomplete_prediction_primary_text = 0x7f0800af;
+        public static final int place_autocomplete_prediction_secondary_text = 0x7f0800b0;
+        public static final int place_autocomplete_progress_horizontal_margin = 0x7f0800b1;
+        public static final int place_autocomplete_progress_size = 0x7f0800b2;
+        public static final int place_autocomplete_separator_start = 0x7f0800b3;
     }
     public static final class drawable {
         public static final int common_full_open_on_phone = 0x7f02005f;
@@ -155,8 +155,8 @@ public final class R {
         public static final int place_autocomplete_progress = 0x7f040042;
     }
     public static final class string {
-        public static final int auth_google_play_services_client_facebook_display_name = 0x7f07004c;
-        public static final int auth_google_play_services_client_google_display_name = 0x7f07004d;
+        public static final int auth_google_play_services_client_facebook_display_name = 0x7f070053;
+        public static final int auth_google_play_services_client_google_display_name = 0x7f070054;
         public static final int common_google_play_services_api_unavailable_text = 0x7f070013;
         public static final int common_google_play_services_enable_button = 0x7f070014;
         public static final int common_google_play_services_enable_text = 0x7f070015;

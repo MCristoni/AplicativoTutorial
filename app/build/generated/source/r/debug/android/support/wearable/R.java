@@ -59,7 +59,7 @@ public final class R {
     public static final class dimen {
         public static final int card_content_padding_rect_top = 0x7f080059;
         public static final int close_button_diameter = 0x7f08005a;
-        public static final int dismiss_padding = 0x7f08007c;
+        public static final int dismiss_padding = 0x7f08007b;
     }
     public static final class drawable {
         public static final int card_background = 0x7f02005b;

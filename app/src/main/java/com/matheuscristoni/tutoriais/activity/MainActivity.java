@@ -23,7 +23,7 @@ public class MainActivity extends BaseActivity
 
         ListView lista = (ListView) findViewById(R.id.listaTeste);
         List<Item> listaItens = new ArrayList<>();
-        listaItens.add(new Item(this, R.string.tituloEfeitoPressionado, R.string.textoEfeitoPressionado));
+        listaItens.add(new Item(this, R.string.titulo_Efeito_Pressionado, R.string.texto_Efeito_Pressionado));
         lista.setAdapter(new adapterListaAndroid(this, listaItens));
     }
 }
