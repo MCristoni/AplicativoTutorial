@@ -23,8 +23,6 @@
     <string name="icone_i">Icone_i</string>
     <string name="item_android_nativo">Android Nativo</string>
     <string name="item_ios_nativo">iOS Nativo</string>
-    <string name="item_xamarin_android" translatable="false">Xamarin Android</string>
-    <string name="item_xamarin_ios" translatable="false">Xamarin iOS</string>
     <string name="item_Principal">Item Principal</string>
 
     <!-- J -->
@@ -36,11 +34,8 @@
     <!-- M -->
 
     <!-- N -->
-    <string name="nav_drawer_username" translatable="false">Matheus Cristoni</string>
-    <string name="nav_drawer_email" translatable="false">matheusmgc@globo.com</string>
 
     <!-- O -->
-    <string name="ok" translatable="false">OK</string>
 
     <!-- P -->
     <string name="previa">Prévia</string>
@@ -59,7 +54,6 @@
     <!-- U -->
 
     <!-- V -->
-    <string name="vazio" translatable="false"/>
 
     <!-- W -->
 

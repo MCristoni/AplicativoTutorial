@@ -56,11 +56,6 @@
     <string name="item_Principal">Item Principal</string>
     <string name="item_android_nativo">Android Nativo</string>
     <string name="item_ios_nativo">iOS Nativo</string>
-    <string name="item_xamarin_android" translatable="false">Xamarin Android</string>
-    <string name="item_xamarin_ios" translatable="false">Xamarin iOS</string>
-    <string name="nav_drawer_email" translatable="false">matheusmgc@globo.com</string>
-    <string name="nav_drawer_username" translatable="false">Matheus Cristoni</string>
-    <string name="ok" translatable="false">OK</string>
     <string msgid="2132213647576279742" name="place_autocomplete_clear_button">"Limpar pesquisa"</string>
     <string msgid="4600782048316473865" name="place_autocomplete_search_hint">"Pesquisar"</string>
     <string name="previa">Prévia</string>
@@ -69,5 +64,4 @@
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="texto_Efeito_Pressionado">Este recurso é utilizado quando desejamos dar ao usuário uma resposta visual ao apertar um botão ou view.\n\nEm outras palavras, quando o usuário realizar um clique no local onde o recurso foi implementado, o seu fundo (background) mudará de cor.</string>
     <string name="titulo_Efeito_Pressionado">Efeito Pressionado / Efeito Ripple</string>
-    <string name="vazio" translatable="false"/>
 </resources>

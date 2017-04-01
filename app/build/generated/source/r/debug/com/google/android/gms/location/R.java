@@ -155,8 +155,8 @@ public final class R {
         public static final int place_autocomplete_progress = 0x7f040042;
     }
     public static final class string {
-        public static final int auth_google_play_services_client_facebook_display_name = 0x7f070053;
-        public static final int auth_google_play_services_client_google_display_name = 0x7f070054;
+        public static final int auth_google_play_services_client_facebook_display_name = 0x7f07004d;
+        public static final int auth_google_play_services_client_google_display_name = 0x7f07004e;
         public static final int common_google_play_services_api_unavailable_text = 0x7f070013;
         public static final int common_google_play_services_enable_button = 0x7f070014;
         public static final int common_google_play_services_enable_text = 0x7f070015;

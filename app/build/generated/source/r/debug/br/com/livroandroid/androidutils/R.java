@@ -1059,10 +1059,10 @@ public final class R {
         public static final int abc_shareactionprovider_share_with_application = 0x7f070011;
         public static final int abc_toolbar_collapse_description = 0x7f070012;
         public static final int app_name = 0x7f070034;
-        public static final int appbar_scrolling_view_behavior = 0x7f070052;
-        public static final int auth_google_play_services_client_facebook_display_name = 0x7f070053;
-        public static final int auth_google_play_services_client_google_display_name = 0x7f070054;
-        public static final int character_counter_pattern = 0x7f070056;
+        public static final int appbar_scrolling_view_behavior = 0x7f07004c;
+        public static final int auth_google_play_services_client_facebook_display_name = 0x7f07004d;
+        public static final int auth_google_play_services_client_google_display_name = 0x7f07004e;
+        public static final int character_counter_pattern = 0x7f070050;
         public static final int common_google_play_services_api_unavailable_text = 0x7f070013;
         public static final int common_google_play_services_enable_button = 0x7f070014;
         public static final int common_google_play_services_enable_text = 0x7f070015;
@@ -1092,9 +1092,9 @@ public final class R {
         public static final int common_open_on_phone = 0x7f07002d;
         public static final int common_signin_button_text = 0x7f07002e;
         public static final int common_signin_button_text_long = 0x7f07002f;
-        public static final int empty = 0x7f070057;
-        public static final int navigation_drawer_close = 0x7f070058;
-        public static final int navigation_drawer_open = 0x7f070059;
+        public static final int empty = 0x7f070051;
+        public static final int navigation_drawer_close = 0x7f070056;
+        public static final int navigation_drawer_open = 0x7f070057;
         public static final int place_autocomplete_clear_button = 0x7f070030;
         public static final int place_autocomplete_search_hint = 0x7f070031;
         public static final int status_bar_notification_info_overflow = 0x7f070033;

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Projetos_AS\\AplicativoTutorial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "outputFile": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "C:\\Users\\mathe\\.android\\build-cache\\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\\output\\res\\values-port\\values-port.xml",
+                    "file": "/Users/mcristoni/.android/build-cache/1a1aede68ed55de8df9c6cbf933fbf5aa5d5e310/output/res/values-port/values-port.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

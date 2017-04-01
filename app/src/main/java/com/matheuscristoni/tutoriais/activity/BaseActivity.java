@@ -1,24 +1,27 @@
 package com.matheuscristoni.tutoriais.activity;
 
-import android.content.res.ColorStateList;
-import android.graphics.Color;
-import android.support.annotation.ColorRes;
+import android.os.Bundle;
+import android.os.PersistableBundle;
 import android.support.annotation.NonNull;
+import android.support.annotation.Nullable;
+import android.support.annotation.StringDef;
 import android.support.design.widget.NavigationView;
 import android.support.design.widget.Snackbar;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBar;
-import livroandroid.lib.utils.*;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.util.Log;
+import android.widget.Toast;
 
 import com.matheuscristoni.tutoriais.R;
 
-public class BaseActivity extends livroandroid.lib.activity.BaseActivity
+public class BaseActivity extends AppCompatActivity
 {
     protected DrawerLayout drawerLayout;
     private static final String TAG = "Erros";
@@ -40,8 +43,15 @@ public class BaseActivity extends livroandroid.lib.activity.BaseActivity
         final ActionBar actionBar = getSupportActionBar();
 
         //Ícone
-        actionBar.setHomeAsUpIndicator(R.drawable.ic_menu);
-        actionBar.setDisplayHomeAsUpEnabled(true);
+        try
+        {
+            actionBar.setHomeAsUpIndicator(R.drawable.ic_menu);
+            actionBar.setDisplayHomeAsUpEnabled(true);
+        }
+        catch (NullPointerException e)
+        {
+            Log.e(TAG, e.getMessage());
+        }
 
         drawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
 
@@ -92,13 +102,12 @@ public class BaseActivity extends livroandroid.lib.activity.BaseActivity
         switch (menuItem.getItemId())
         {
             case R.id.nav_item_android:
-                toast("Clicou em Android");
+                Toast.makeText(this, "Clicou em Android", Toast.LENGTH_SHORT).show();
                 break;
 
             default:
-                toast("Clicou em Android");
+                Toast.makeText(this, "Clicou em Android", Toast.LENGTH_SHORT).show();
                 break;
-
         }
     }
 
@@ -148,4 +157,67 @@ public class BaseActivity extends livroandroid.lib.activity.BaseActivity
         getMenuInflater().inflate(R.menu.menu_actionbar, menu);
         return super.onCreateOptionsMenu(menu);
     }
+
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState)
+    {
+        super.onCreate(savedInstanceState);
+        Log.i(TAG, getClassName() + ".onCreate() chamado: " + savedInstanceState);
+    }
+
+    @Override
+    protected void onStart()
+    {
+        super.onStart();
+	    Log.i(TAG, getClassName() + ".onStart() chamado.");
+    }
+
+    @Override
+    protected void onRestart()
+    {
+        super.onRestart();
+	    Log.i(TAG, getClassName() + ".onRestart() chamado. ");
+    }
+
+    @Override
+    protected void onResume()
+    {
+        super.onResume();
+	    Log.i(TAG, getClassName() + ".onResume() chamado.");
+    }
+
+    @Override
+    protected void onPause()
+    {
+        super.onPause();
+	    Log.i(TAG, getClassName() + ".onPause() chamado. ");
+    }
+	
+	@Override
+	public void onSaveInstanceState(Bundle outState)
+	{
+		super.onSaveInstanceState(outState);
+		Log.i(TAG, getClassName() + ".onSaveInstanceState() chamado. ");
+	}
+	
+	@Override
+	protected void onStop()
+	{
+		super.onStop();
+		Log.i(TAG, getClassName() + ".onStop() chamado.");
+	}
+	
+	@Override
+	protected void onDestroy()
+	{
+		super.onDestroy();
+		Log.i(TAG, getClassName() + ".onDestroy() chamado. ");
+	}
+	
+	private String getClassName()
+	{
+		String s = getClass().getName();
+		return s.substring(s.lastIndexOf(".")+1);
+	}
 }

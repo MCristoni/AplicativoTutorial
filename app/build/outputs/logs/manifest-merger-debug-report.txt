@@ -1,107 +1,107 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml:2:1-20:12
+ADDED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:2:1-20:12
 	package
-		ADDED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml:3:5-44
-		INJECTED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml
+		ADDED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml
+		INJECTED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml
+		INJECTED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml
 application
-ADDED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml:5:5-18:19
-MERGED from [br.com.livroandroid:android-utils:1.0.5] C:\Users\mathe\.android\build-cache\39854cfaf05542cf19a36c0a5912acd53b164b4e\output\AndroidManifest.xml:9:5-12:44
-MERGED from [com.google.android.support:wearable:1.1.0] C:\Users\mathe\.android\build-cache\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\output\AndroidManifest.xml:10:5-20
-MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\mathe\.android\build-cache\8e50fb889359bf91d5e191dd008222afd01f1494\output\AndroidManifest.xml:19:5-20
-MERGED from [com.android.support:design:25.2.0] C:\Users\mathe\.android\build-cache\03144b514733a5c45ca92230d675089f5a886ce0\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\mathe\.android\build-cache\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\mathe\.android\build-cache\7312554e18bbd95f8b1fbdc3ea8d45544dae13bb\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\mathe\.android\build-cache\f2b1c4502f583732c8d836e9062bc3aadeb92c14\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:transition:25.2.0] C:\Users\mathe\.android\build-cache\1d5360e613d0e1b7493154113d4a5f77bd97d304\output\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\mathe\.android\build-cache\32735b7588ee44b64e01783c7eb5a98e193500e1\output\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\mathe\.android\build-cache\c18499494361203c0b34f54207355767b46b16ce\output\AndroidManifest.xml:27:5-20
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\mathe\.android\build-cache\cb9003bb8dd7edb420ea085be7ac98ac2c625b01\output\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:25.2.0] C:\Users\mathe\.android\build-cache\ed55589b38fbab4c43dd970439151b9f96bd3b82\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\mathe\.android\build-cache\2b4bec3e27b1a7890bf3d0b0fd9642f8bc00b524\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\mathe\.android\build-cache\4d710c7b873b2a0d2b0a683b7857e15bb0e8f35a\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\mathe\.android\build-cache\8e303b9ab2e1521036105e5b7d2d1bf824f4d50f\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\mathe\.android\build-cache\6b9865854ee7ff6551ca1311a07c523c5f55f5d1\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.2.0] C:\Users\mathe\.android\build-cache\9932d7354a69aea2f14e1a5c28eb5dc3910a3c5a\output\AndroidManifest.xml:25:5-20
+ADDED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [br.com.livroandroid:android-utils:1.0.5] /Users/mcristoni/.android/build-cache/cc9b02612dc38c2106ed669049deccb399041279/output/AndroidManifest.xml:9:5-12:44
+MERGED from [com.google.android.support:wearable:1.1.0] /Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /Users/mcristoni/.android/build-cache/b674c046394d340451dda22081a24d7a0ec4e839/output/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:design:25.2.0] /Users/mcristoni/.android/build-cache/a07b5327ca66ed80de1ec3720b2383ddb1b30a2e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/mcristoni/.android/build-cache/1a1aede68ed55de8df9c6cbf933fbf5aa5d5e310/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/mcristoni/.android/build-cache/4e5d6deb3050e8fd15a01b58ac8c89b63b0f3a2e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/mcristoni/.android/build-cache/fdf99ed4f862f27ad4aad29b88526ec8c844fd56/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/mcristoni/.android/build-cache/fea4a35043b0b3167f0e8704d43350ea68ba0ef4/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/mcristoni/.android/build-cache/6c4e1ce421b5b4fb7b1f8356c6aeea81817a165b/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/mcristoni/.android/build-cache/80244c1d9a6583e2a2c689cc74bb05248eb6401b/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/mcristoni/.android/build-cache/03183df6e0df546948548d08fe9f82629e7e42e8/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.2.0] /Users/mcristoni/.android/build-cache/f504ab289b918934cb2fa9adaf2574dc46f4c06d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/mcristoni/.android/build-cache/ab69ff927942620ca49111bf662da608d8f00efd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/mcristoni/.android/build-cache/2f921565cd6c471e4efce6da492cdf17ab48ba87/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/mcristoni/.android/build-cache/b2edf753965638492f1418a55a60176f5c4eda6f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/mcristoni/.android/build-cache/a9fba171fb56b41b2caeb1eb40fc4ef174bdce4e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/mcristoni/.android/build-cache/fec53ed9feb1067bad938c7e44679c49497e30ac/output/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:9:9-35
 	android:allowBackup
-		ADDED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml:10:9-62
+		ADDED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:10:9-62
 activity#com.matheuscristoni.tutoriais.activity.MainActivity
-ADDED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml:11:9-17:20
+ADDED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:11:9-17:20
 	android:name
-		ADDED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml:11:19-56
+		ADDED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:11:19-56
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml:12:13-16:29
+ADDED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
-ADDED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml:13:17-69
+ADDED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml:13:25-66
+		ADDED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml:15:17-77
+ADDED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml:15:27-74
+		ADDED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml:15:27-74
 uses-sdk
-INJECTED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [br.com.livroandroid:android-utils:1.0.5] C:\Users\mathe\.android\build-cache\39854cfaf05542cf19a36c0a5912acd53b164b4e\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.support:wearable:1.1.0] C:\Users\mathe\.android\build-cache\be26ef5a7e37dac793710e2fbfd7d7b26b984f6b\output\AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\mathe\.android\build-cache\8e50fb889359bf91d5e191dd008222afd01f1494\output\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:design:25.2.0] C:\Users\mathe\.android\build-cache\03144b514733a5c45ca92230d675089f5a886ce0\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\mathe\.android\build-cache\a31d8d50dfd1ce624d0b1a815fc8d0b14d04354e\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\mathe\.android\build-cache\7312554e18bbd95f8b1fbdc3ea8d45544dae13bb\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\mathe\.android\build-cache\f2b1c4502f583732c8d836e9062bc3aadeb92c14\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\mathe\.android\build-cache\091caa5746230795f61bda7ff5c050ebdfc7a8b4\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.2.0] C:\Users\mathe\.android\build-cache\1d5360e613d0e1b7493154113d4a5f77bd97d304\output\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\mathe\.android\build-cache\32735b7588ee44b64e01783c7eb5a98e193500e1\output\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\mathe\.android\build-cache\c18499494361203c0b34f54207355767b46b16ce\output\AndroidManifest.xml:26:5-42
-MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\mathe\.android\build-cache\d0d82d54887e2893ade524ee53326d4536294d36\output\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\mathe\.android\build-cache\cb9003bb8dd7edb420ea085be7ac98ac2c625b01\output\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:25.2.0] C:\Users\mathe\.android\build-cache\ed55589b38fbab4c43dd970439151b9f96bd3b82\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\mathe\.android\build-cache\2b4bec3e27b1a7890bf3d0b0fd9642f8bc00b524\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\mathe\.android\build-cache\4d710c7b873b2a0d2b0a683b7857e15bb0e8f35a\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\mathe\.android\build-cache\8e303b9ab2e1521036105e5b7d2d1bf824f4d50f\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\mathe\.android\build-cache\6b9865854ee7ff6551ca1311a07c523c5f55f5d1\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.2.0] C:\Users\mathe\.android\build-cache\9932d7354a69aea2f14e1a5c28eb5dc3910a3c5a\output\AndroidManifest.xml:21:5-23:58
+INJECTED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [br.com.livroandroid:android-utils:1.0.5] /Users/mcristoni/.android/build-cache/cc9b02612dc38c2106ed669049deccb399041279/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:1.1.0] /Users/mcristoni/.android/build-cache/fb82048e50bf1e2f483d66885e7dd77d4f158c0e/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /Users/mcristoni/.android/build-cache/b674c046394d340451dda22081a24d7a0ec4e839/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:25.2.0] /Users/mcristoni/.android/build-cache/a07b5327ca66ed80de1ec3720b2383ddb1b30a2e/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/mcristoni/.android/build-cache/1a1aede68ed55de8df9c6cbf933fbf5aa5d5e310/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/mcristoni/.android/build-cache/4e5d6deb3050e8fd15a01b58ac8c89b63b0f3a2e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/mcristoni/.android/build-cache/fdf99ed4f862f27ad4aad29b88526ec8c844fd56/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/mcristoni/.android/build-cache/d4c36c542f30070d737e2738ca0a5f745fb3fccd/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /Users/mcristoni/.android/build-cache/fea4a35043b0b3167f0e8704d43350ea68ba0ef4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/mcristoni/.android/build-cache/6c4e1ce421b5b4fb7b1f8356c6aeea81817a165b/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/mcristoni/.android/build-cache/80244c1d9a6583e2a2c689cc74bb05248eb6401b/output/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/mcristoni/.android/build-cache/22e618fc899624e9371f2e9802ade5d0a2b3c4a6/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/mcristoni/.android/build-cache/03183df6e0df546948548d08fe9f82629e7e42e8/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.2.0] /Users/mcristoni/.android/build-cache/f504ab289b918934cb2fa9adaf2574dc46f4c06d/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/mcristoni/.android/build-cache/ab69ff927942620ca49111bf662da608d8f00efd/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/mcristoni/.android/build-cache/2f921565cd6c471e4efce6da492cdf17ab48ba87/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/mcristoni/.android/build-cache/b2edf753965638492f1418a55a60176f5c4eda6f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/mcristoni/.android/build-cache/a9fba171fb56b41b2caeb1eb40fc4ef174bdce4e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/mcristoni/.android/build-cache/fec53ed9feb1067bad938c7e44679c49497e30ac/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.2.0] C:\Users\mathe\.android\build-cache\03144b514733a5c45ca92230d675089f5a886ce0\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.2.0] /Users/mcristoni/.android/build-cache/a07b5327ca66ed80de1ec3720b2383ddb1b30a2e/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml
+		INJECTED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Projetos_AS\AplicativoTutorial\app\src\main\AndroidManifest.xml
+		INJECTED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/HD1TB/GitHub/AplicativoTutorial/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\mathe\.android\build-cache\c18499494361203c0b34f54207355767b46b16ce\output\AndroidManifest.xml:20:5-78
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/mcristoni/.android/build-cache/80244c1d9a6583e2a2c689cc74bb05248eb6401b/output/AndroidManifest.xml:20:5-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\mathe\.android\build-cache\c18499494361203c0b34f54207355767b46b16ce\output\AndroidManifest.xml:20:22-76
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/mcristoni/.android/build-cache/80244c1d9a6583e2a2c689cc74bb05248eb6401b/output/AndroidManifest.xml:20:22-76
 uses-permission#android.permission.INTERNET
-ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\mathe\.android\build-cache\c18499494361203c0b34f54207355767b46b16ce\output\AndroidManifest.xml:21:5-66
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/mcristoni/.android/build-cache/80244c1d9a6583e2a2c689cc74bb05248eb6401b/output/AndroidManifest.xml:21:5-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\mathe\.android\build-cache\c18499494361203c0b34f54207355767b46b16ce\output\AndroidManifest.xml:21:22-64
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/mcristoni/.android/build-cache/80244c1d9a6583e2a2c689cc74bb05248eb6401b/output/AndroidManifest.xml:21:22-64
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\mathe\.android\build-cache\c18499494361203c0b34f54207355767b46b16ce\output\AndroidManifest.xml:22:5-24:33
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/mcristoni/.android/build-cache/80244c1d9a6583e2a2c689cc74bb05248eb6401b/output/AndroidManifest.xml:22:5-24:33
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\mathe\.android\build-cache\c18499494361203c0b34f54207355767b46b16ce\output\AndroidManifest.xml:23:8-40
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/mcristoni/.android/build-cache/80244c1d9a6583e2a2c689cc74bb05248eb6401b/output/AndroidManifest.xml:23:8-40
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\mathe\.android\build-cache\c18499494361203c0b34f54207355767b46b16ce\output\AndroidManifest.xml:24:8-31
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/mcristoni/.android/build-cache/80244c1d9a6583e2a2c689cc74bb05248eb6401b/output/AndroidManifest.xml:24:8-31
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\mathe\.android\build-cache\cb9003bb8dd7edb420ea085be7ac98ac2c625b01\output\AndroidManifest.xml:21:9-23:69
+ADDED from [com.google.android.gms:play-services-basement:8.4.0] /Users/mcristoni/.android/build-cache/03183df6e0df546948548d08fe9f82629e7e42e8/output/AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\mathe\.android\build-cache\cb9003bb8dd7edb420ea085be7ac98ac2c625b01\output\AndroidManifest.xml:23:13-66
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] /Users/mcristoni/.android/build-cache/03183df6e0df546948548d08fe9f82629e7e42e8/output/AndroidManifest.xml:23:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\mathe\.android\build-cache\cb9003bb8dd7edb420ea085be7ac98ac2c625b01\output\AndroidManifest.xml:22:13-58
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] /Users/mcristoni/.android/build-cache/03183df6e0df546948548d08fe9f82629e7e42e8/output/AndroidManifest.xml:22:13-58

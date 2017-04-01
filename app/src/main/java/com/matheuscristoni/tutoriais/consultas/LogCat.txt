@@ -1,4 +1,4 @@
-Importar android.util.log;
+Importar android.util.Log;
 Criar variável de log private static final String TAG = "livro";
 
 Log.v(TAG, "log de verbose");
