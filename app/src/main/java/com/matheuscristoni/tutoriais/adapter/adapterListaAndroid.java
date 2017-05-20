@@ -1,6 +1,7 @@
 package com.matheuscristoni.tutoriais.adapter;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
@@ -12,6 +13,7 @@ import com.matheuscristoni.tutoriais.R;
 
 import java.util.List;
 
+import com.matheuscristoni.tutoriais.activity.TesteActivity;
 import com.matheuscristoni.tutoriais.constantes.Constantes;
 import com.matheuscristoni.tutoriais.constantes.Item;
 
@@ -71,6 +73,13 @@ public class adapterListaAndroid extends BaseAdapter
                 public void onClick(View v) {
                     CustomDialog dialog = new CustomDialog();
                     dialog.ShowDialog(context, item);
+                }
+            });
+
+            btnPrevia.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    context.startActivity(new Intent(context, TesteActivity.class));
                 }
             });
         }

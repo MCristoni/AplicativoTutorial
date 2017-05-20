@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+<LinearLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+    <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/test"
+                android:text="&lt;post&gt;\n\t&lt;url&gt;http://www.ms.com&lt;/url&gt;\n\t&lt;text&gt;This is text&lt;/text&gt;\n&lt;/post&gt;"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:scrollHorizontally="true"
+                android:scrollbars="horizontal|vertical"/>
+
+            <TextView
+                android:id="@+id/test2"
+                android:text=""
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:scrollHorizontally="true"
+                android:scrollbars="horizontal|vertical"/>
+        </LinearLayout>
+    </HorizontalScrollView>
+</LinearLayout>
+    </ScrollView>

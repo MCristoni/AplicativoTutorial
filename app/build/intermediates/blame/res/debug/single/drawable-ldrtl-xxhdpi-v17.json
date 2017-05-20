@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/Users/mcristoni/.android/build-cache/1a1aede68ed55de8df9c6cbf933fbf5aa5d5e310/output/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "E:\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\aae3624740ed58d86d57f5c1cd14ea8738d5aead\\output\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/Users/mcristoni/.android/build-cache/1a1aede68ed55de8df9c6cbf933fbf5aa5d5e310/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "E:\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\aae3624740ed58d86d57f5c1cd14ea8738d5aead\\output\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/Users/mcristoni/.android/build-cache/1a1aede68ed55de8df9c6cbf933fbf5aa5d5e310/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "E:\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\aae3624740ed58d86d57f5c1cd14ea8738d5aead\\output\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     }
 ]

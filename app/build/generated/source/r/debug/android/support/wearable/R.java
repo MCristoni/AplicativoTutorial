@@ -8,32 +8,32 @@ package android.support.wearable;
 
 public final class R {
     public static final class attr {
-        public static final int circle_border_color = 0x7f0100ac;
-        public static final int circle_border_width = 0x7f0100ab;
-        public static final int circle_color = 0x7f0100a8;
-        public static final int circle_padding = 0x7f0100ad;
-        public static final int circle_radius = 0x7f0100a9;
-        public static final int circle_radius_pressed = 0x7f0100aa;
-        public static final int circular_layout_gravity = 0x7f010170;
-        public static final int circular_text_size = 0x7f010171;
-        public static final int dotColor = 0x7f0100d6;
-        public static final int dotColorSelected = 0x7f0100d7;
-        public static final int dotFadeInDuration = 0x7f0100db;
-        public static final int dotFadeOutDelay = 0x7f0100d9;
-        public static final int dotFadeOutDuration = 0x7f0100da;
-        public static final int dotFadeWhenIdle = 0x7f0100d8;
-        public static final int dotRadius = 0x7f0100d4;
-        public static final int dotRadiusSelected = 0x7f0100d5;
-        public static final int dotShadowColor = 0x7f0100dc;
-        public static final int dotShadowDx = 0x7f0100de;
-        public static final int dotShadowDy = 0x7f0100df;
-        public static final int dotShadowRadius = 0x7f0100dd;
-        public static final int dotSpacing = 0x7f0100d3;
-        public static final int layout_box = 0x7f0100a6;
-        public static final int rectLayout = 0x7f01016e;
-        public static final int roundLayout = 0x7f01016f;
-        public static final int shadow_width = 0x7f0100ae;
-        public static final int update_interval = 0x7f0100cf;
+        public static final int circle_border_color = 0x7f0100d8;
+        public static final int circle_border_width = 0x7f0100d7;
+        public static final int circle_color = 0x7f0100d4;
+        public static final int circle_padding = 0x7f0100d9;
+        public static final int circle_radius = 0x7f0100d5;
+        public static final int circle_radius_pressed = 0x7f0100d6;
+        public static final int circular_layout_gravity = 0x7f01019c;
+        public static final int circular_text_size = 0x7f01019d;
+        public static final int dotColor = 0x7f010102;
+        public static final int dotColorSelected = 0x7f010103;
+        public static final int dotFadeInDuration = 0x7f010107;
+        public static final int dotFadeOutDelay = 0x7f010105;
+        public static final int dotFadeOutDuration = 0x7f010106;
+        public static final int dotFadeWhenIdle = 0x7f010104;
+        public static final int dotRadius = 0x7f010100;
+        public static final int dotRadiusSelected = 0x7f010101;
+        public static final int dotShadowColor = 0x7f010108;
+        public static final int dotShadowDx = 0x7f01010a;
+        public static final int dotShadowDy = 0x7f01010b;
+        public static final int dotShadowRadius = 0x7f010109;
+        public static final int dotSpacing = 0x7f0100ff;
+        public static final int layout_box = 0x7f0100d2;
+        public static final int rectLayout = 0x7f01019a;
+        public static final int roundLayout = 0x7f01019b;
+        public static final int shadow_width = 0x7f0100da;
+        public static final int update_interval = 0x7f0100fb;
     }
     public static final class color {
         public static final int black = 0x7f0c000f;
@@ -148,28 +148,28 @@ public final class R {
         public static final int ic_full_sad = 0x7f0200e8;
     }
     public static final class id {
-        public static final int action_error = 0x7f0d0089;
-        public static final int action_success = 0x7f0d008b;
-        public static final int all = 0x7f0d0026;
-        public static final int animation = 0x7f0d008c;
-        public static final int bottom = 0x7f0d0027;
-        public static final int center = 0x7f0d002b;
-        public static final int center_horizontal = 0x7f0d002c;
-        public static final int center_vertical = 0x7f0d002d;
-        public static final int dismiss_overlay_button = 0x7f0d00a0;
-        public static final int dismiss_overlay_explain = 0x7f0d009f;
-        public static final int error_message = 0x7f0d008a;
-        public static final int left = 0x7f0d0028;
-        public static final int message = 0x7f0d008d;
-        public static final int right = 0x7f0d0029;
-        public static final int text = 0x7f0d00c0;
-        public static final int title = 0x7f0d0054;
-        public static final int top = 0x7f0d002a;
+        public static final int action_error = 0x7f0d0092;
+        public static final int action_success = 0x7f0d0094;
+        public static final int all = 0x7f0d0014;
+        public static final int animation = 0x7f0d0095;
+        public static final int bottom = 0x7f0d002e;
+        public static final int center = 0x7f0d0032;
+        public static final int center_horizontal = 0x7f0d0033;
+        public static final int center_vertical = 0x7f0d0034;
+        public static final int dismiss_overlay_button = 0x7f0d00a9;
+        public static final int dismiss_overlay_explain = 0x7f0d00a8;
+        public static final int error_message = 0x7f0d0093;
+        public static final int left = 0x7f0d002f;
+        public static final int message = 0x7f0d0096;
+        public static final int right = 0x7f0d0030;
+        public static final int text = 0x7f0d00c9;
+        public static final int title = 0x7f0d005b;
+        public static final int top = 0x7f0d0031;
     }
     public static final class layout {
-        public static final int confirmation_activity_layout = 0x7f04001d;
-        public static final int dismiss_overlay = 0x7f04002d;
-        public static final int watch_card_content = 0x7f040048;
+        public static final int confirmation_activity_layout = 0x7f04001e;
+        public static final int dismiss_overlay = 0x7f04002e;
+        public static final int watch_card_content = 0x7f040049;
     }
     public static final class style {
         public static final int CardText = 0x7f090040;
@@ -189,9 +189,9 @@ public final class R {
         public static final int Theme_Wearable_Modal = 0x7f09004e;
     }
     public static final class styleable {
-        public static final int[] BoxInsetLayout_Layout = { 0x7f0100a6 };
+        public static final int[] BoxInsetLayout_Layout = { 0x7f0100d2 };
         public static final int BoxInsetLayout_Layout_layout_box = 0;
-        public static final int[] CircledImageView = { 0x01010119, 0x7f0100a8, 0x7f0100a9, 0x7f0100aa, 0x7f0100ab, 0x7f0100ac, 0x7f0100ad, 0x7f0100ae };
+        public static final int[] CircledImageView = { 0x01010119, 0x7f0100d4, 0x7f0100d5, 0x7f0100d6, 0x7f0100d7, 0x7f0100d8, 0x7f0100d9, 0x7f0100da };
         public static final int CircledImageView_android_src = 0;
         public static final int CircledImageView_circle_border_color = 5;
         public static final int CircledImageView_circle_border_width = 4;
@@ -200,9 +200,9 @@ public final class R {
         public static final int CircledImageView_circle_radius = 2;
         public static final int CircledImageView_circle_radius_pressed = 3;
         public static final int CircledImageView_shadow_width = 7;
-        public static final int[] DelayedConfirmationView = { 0x7f0100cf };
+        public static final int[] DelayedConfirmationView = { 0x7f0100fb };
         public static final int DelayedConfirmationView_update_interval = 0;
-        public static final int[] DotsPageIndicator = { 0x7f0100d3, 0x7f0100d4, 0x7f0100d5, 0x7f0100d6, 0x7f0100d7, 0x7f0100d8, 0x7f0100d9, 0x7f0100da, 0x7f0100db, 0x7f0100dc, 0x7f0100dd, 0x7f0100de, 0x7f0100df };
+        public static final int[] DotsPageIndicator = { 0x7f0100ff, 0x7f010100, 0x7f010101, 0x7f010102, 0x7f010103, 0x7f010104, 0x7f010105, 0x7f010106, 0x7f010107, 0x7f010108, 0x7f010109, 0x7f01010a, 0x7f01010b };
         public static final int DotsPageIndicator_dotColor = 3;
         public static final int DotsPageIndicator_dotColorSelected = 4;
         public static final int DotsPageIndicator_dotFadeInDuration = 8;
@@ -216,10 +216,10 @@ public final class R {
         public static final int DotsPageIndicator_dotShadowDy = 12;
         public static final int DotsPageIndicator_dotShadowRadius = 10;
         public static final int DotsPageIndicator_dotSpacing = 0;
-        public static final int[] WatchViewStub = { 0x7f01016e, 0x7f01016f };
+        public static final int[] WatchViewStub = { 0x7f01019a, 0x7f01019b };
         public static final int WatchViewStub_rectLayout = 0;
         public static final int WatchViewStub_roundLayout = 1;
-        public static final int[] WearableHeaderTextView = { 0x7f010170, 0x7f010171 };
+        public static final int[] WearableHeaderTextView = { 0x7f01019c, 0x7f01019d };
         public static final int WearableHeaderTextView_circular_layout_gravity = 0;
         public static final int WearableHeaderTextView_circular_text_size = 1;
     }

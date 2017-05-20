@@ -1,26 +1,26 @@
 [
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/Users/mcristoni/.android/build-cache/1a1aede68ed55de8df9c6cbf933fbf5aa5d5e310/output/res/layout-v11/notification_template_big_media.xml"
+        "merged": "E:\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\aae3624740ed58d86d57f5c1cd14ea8738d5aead\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/Users/mcristoni/.android/build-cache/1a1aede68ed55de8df9c6cbf933fbf5aa5d5e310/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+        "merged": "E:\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\aae3624740ed58d86d57f5c1cd14ea8738d5aead\\output\\res\\layout-v11\\notification_template_big_media.xml"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/Users/mcristoni/.android/build-cache/1a1aede68ed55de8df9c6cbf933fbf5aa5d5e310/output/res/layout-v11/notification_media_cancel_action.xml"
+        "merged": "E:\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\aae3624740ed58d86d57f5c1cd14ea8738d5aead\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/Users/mcristoni/.android/build-cache/1a1aede68ed55de8df9c6cbf933fbf5aa5d5e310/output/res/layout-v11/notification_template_big_media_narrow.xml"
+        "merged": "E:\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\aae3624740ed58d86d57f5c1cd14ea8738d5aead\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/Users/mcristoni/.android/build-cache/1a1aede68ed55de8df9c6cbf933fbf5aa5d5e310/output/res/layout-v11/notification_media_action.xml"
+        "merged": "E:\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\aae3624740ed58d86d57f5c1cd14ea8738d5aead\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/Volumes/HD1TB/GitHub/AplicativoTutorial/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/Users/mcristoni/.android/build-cache/1a1aede68ed55de8df9c6cbf933fbf5aa5d5e310/output/res/layout-v11/notification_template_big_media_custom.xml"
+        "merged": "E:\\GitHub\\AplicativoTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\mathe\\.android\\build-cache\\aae3624740ed58d86d57f5c1cd14ea8738d5aead\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     }
 ]

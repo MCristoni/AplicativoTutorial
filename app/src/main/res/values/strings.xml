@@ -7,6 +7,12 @@
     <!-- C -->
     <string name="codigo">Code</string>
     <string name="configuracoes">Settings</string>
+    <string name="test">
+        <![CDATA[<post>]]>\n
+            \t<![CDATA[<url>http://www.ms.com</url>]]>\n
+            \t<![CDATA[<text>This is text</text>]]>\n
+        <![CDATA[</post>]]>
+    </string>
 
     <!-- D -->
 
@@ -58,7 +64,7 @@
     <!-- U -->
 
     <!-- V -->
-    <string name="vazio" translatable="false"/>
+    <string name="vazio" translatable="false" />
     <string name="icone_i">Icone_i</string>
 
     <!-- W -->
