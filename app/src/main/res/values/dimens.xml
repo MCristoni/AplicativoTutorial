@@ -21,5 +21,8 @@
     <dimen name="popup_width">300dp</dimen>
     <dimen name="popup_height">300dp</dimen>
 
+
+    <dimen name="userEmail_textSize">16sp</dimen>
+
     <dimen name="design_navigation_icon_size" tools:override="true">50dp</dimen>
 </resources>

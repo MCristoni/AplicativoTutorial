@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/navDrawerHeader"
     android:layout_width="match_parent"
     android:layout_height="@dimen/navDrawerBackground_layout_height"
@@ -19,7 +19,7 @@
         android:scaleType="fitXY"/>
 
     <!--Logo usuário-->
-    <livroandroid.lib.view.RoundedImageView
+    <ImageView
         android:layout_width="@dimen/navDrawerPhoto_layout_width"
         android:layout_height="@dimen/navDrawerPhoto_layout_height"
         android:layout_alignParentLeft="true"
@@ -40,21 +40,23 @@
         android:orientation="vertical">
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/txtUserName"
             fontPath="fonts/Roboto-Medium.ttf"
             android:layout_marginLeft="@dimen/navDrawerName_layout_marginLeft"
             android:textColor="@color/white"
-            android:textSize="@dimen/navDrawerName_textSize"/>
+            android:textSize="@dimen/navDrawerName_textSize"
+            tools:text="Usuario"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/txtUserEmail"
             fontPath="fonts/Roboto-Regular.ttf"
             android:layout_marginLeft="@dimen/navDrawerEmail_layout_marginLeft"
             android:textColor="@color/white"
-            android:textSize="@dimen/userEmail_textSize"/>
+            android:textSize="@dimen/userEmail_textSize"
+            tools:text="Usuario"/>
     </LinearLayout>
 </RelativeLayout>
